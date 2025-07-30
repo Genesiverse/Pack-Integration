@@ -1,0 +1,3659 @@
+info:
+  namespace: genesicore
+items:
+  asset40001:
+    display_name: 7
+    lore:
+    - title item
+    resource:
+      model_id: 40001
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/007
+  asset40002:
+    display_name: acorn
+    lore:
+    - title item
+    resource:
+      model_id: 40002
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/acorn
+  asset40003:
+    display_name: actor
+    lore:
+    - title item
+    resource:
+      model_id: 40003
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/actor
+  asset40004:
+    display_name: addicted
+    lore:
+    - title item
+    resource:
+      model_id: 40004
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/addicted
+  asset40005:
+    display_name: adorable
+    lore:
+    - title item
+    resource:
+      model_id: 40005
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/adorable
+  asset40006:
+    display_name: alien
+    lore:
+    - title item
+    resource:
+      model_id: 40006
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/alien
+  asset40007:
+    display_name: ancient
+    lore:
+    - title item
+    resource:
+      model_id: 40007
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/ancient
+  asset40008:
+    display_name: angel
+    lore:
+    - title item
+    resource:
+      model_id: 40008
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/angel
+  asset40009:
+    display_name: anniversary
+    lore:
+    - title item
+    resource:
+      model_id: 40009
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/anniversary
+  asset40010:
+    display_name: annual
+    lore:
+    - title item
+    resource:
+      model_id: 40010
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/annual
+  asset40011:
+    display_name: archer
+    lore:
+    - title item
+    resource:
+      model_id: 40011
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/archer
+  asset40012:
+    display_name: artist
+    lore:
+    - title item
+    resource:
+      model_id: 40012
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/artist
+  asset40013:
+    display_name: astronaut
+    lore:
+    - title item
+    resource:
+      model_id: 40013
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/astronaut
+  asset40014:
+    display_name: athlete
+    lore:
+    - title item
+    resource:
+      model_id: 40014
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/athlete
+  asset40015:
+    display_name: baker
+    lore:
+    - title item
+    resource:
+      model_id: 40015
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/baker
+  asset40016:
+    display_name: beachy
+    lore:
+    - title item
+    resource:
+      model_id: 40016
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/beachy
+  asset40017:
+    display_name: bee
+    lore:
+    - title item
+    resource:
+      model_id: 40017
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/bee
+  asset40018:
+    display_name: beta
+    lore:
+    - title item
+    resource:
+      model_id: 40018
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/beta
+  asset40019:
+    display_name: birdy
+    lore:
+    - title item
+    resource:
+      model_id: 40019
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/birdy
+  asset40020:
+    display_name: birthday
+    lore:
+    - title item
+    resource:
+      model_id: 40020
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/birthday
+  asset40021:
+    display_name: blessed
+    lore:
+    - title item
+    resource:
+      model_id: 40021
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/blessed
+  asset40022:
+    display_name: blooming
+    lore:
+    - title item
+    resource:
+      model_id: 40022
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/blooming
+  asset40023:
+    display_name: bookworm
+    lore:
+    - title item
+    resource:
+      model_id: 40023
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/bookworm
+  asset40024:
+    display_name: boomer
+    lore:
+    - title item
+    resource:
+      model_id: 40024
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/boomer
+  asset40025:
+    display_name: bot
+    lore:
+    - title item
+    resource:
+      model_id: 40025
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/bot
+  asset40026:
+    display_name: broken
+    lore:
+    - title item
+    resource:
+      model_id: 40026
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/broken
+  asset40027:
+    display_name: bubbly
+    lore:
+    - title item
+    resource:
+      model_id: 40027
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/bubbly
+  asset40028:
+    display_name: buggy
+    lore:
+    - title item
+    resource:
+      model_id: 40028
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/buggy
+  asset40029:
+    display_name: bunny
+    lore:
+    - title item
+    resource:
+      model_id: 40029
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/bunny
+  asset40030:
+    display_name: caesar
+    lore:
+    - title item
+    resource:
+      model_id: 40030
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/caesar
+  asset40031:
+    display_name: captain
+    lore:
+    - title item
+    resource:
+      model_id: 40031
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/captain
+  asset40032:
+    display_name: celestial
+    lore:
+    - title item
+    resource:
+      model_id: 40032
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/celestial
+  asset40033:
+    display_name: ceo
+    lore:
+    - title item
+    resource:
+      model_id: 40033
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/ceo
+  asset40034:
+    display_name: chad
+    lore:
+    - title item
+    resource:
+      model_id: 40034
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/chad
+  asset40035:
+    display_name: champion
+    lore:
+    - title item
+    resource:
+      model_id: 40035
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/champion
+  asset40036:
+    display_name: cheesy
+    lore:
+    - title item
+    resource:
+      model_id: 40036
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cheesy
+  asset40037:
+    display_name: chef
+    lore:
+    - title item
+    resource:
+      model_id: 40037
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/chef
+  asset40038:
+    display_name: chief
+    lore:
+    - title item
+    resource:
+      model_id: 40038
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/chief
+  asset40039:
+    display_name: chirp
+    lore:
+    - title item
+    resource:
+      model_id: 40039
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/chirp
+  asset40040:
+    display_name: christmas
+    lore:
+    - title item
+    resource:
+      model_id: 40040
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/christmas
+  asset40041:
+    display_name: classical
+    lore:
+    - title item
+    resource:
+      model_id: 40041
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/classical
+  asset40042:
+    display_name: clover
+    lore:
+    - title item
+    resource:
+      model_id: 40042
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/clover
+  asset40043:
+    display_name: convict
+    lore:
+    - title item
+    resource:
+      model_id: 40043
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/convict
+  asset40044:
+    display_name: cook
+    lore:
+    - title item
+    resource:
+      model_id: 40044
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cook
+  asset40045:
+    display_name: cosmic
+    lore:
+    - title item
+    resource:
+      model_id: 40045
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cosmic
+  asset40046:
+    display_name: cozy
+    lore:
+    - title item
+    resource:
+      model_id: 40046
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cozy
+  asset40047:
+    display_name: crabby
+    lore:
+    - title item
+    resource:
+      model_id: 40047
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/crabby
+  asset40048:
+    display_name: crawly
+    lore:
+    - title item
+    resource:
+      model_id: 40048
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/crawly
+  asset40049:
+    display_name: creative
+    lore:
+    - title item
+    resource:
+      model_id: 40049
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/creative
+  asset40050:
+    display_name: creeper
+    lore:
+    - title item
+    resource:
+      model_id: 40050
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/creeper
+  asset40051:
+    display_name: criminal
+    lore:
+    - title item
+    resource:
+      model_id: 40051
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/criminal
+  asset40052:
+    display_name: cupid
+    lore:
+    - title item
+    resource:
+      model_id: 40052
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cupid2
+  asset40053:
+    display_name: cute
+    lore:
+    - title item
+    resource:
+      model_id: 40053
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/cute
+  asset40054:
+    display_name: dancer
+    lore:
+    - title item
+    resource:
+      model_id: 40054
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dancer
+  asset40055:
+    display_name: dapper
+    lore:
+    - title item
+    resource:
+      model_id: 40055
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dapper
+  asset40056:
+    display_name: dasher
+    lore:
+    - title item
+    resource:
+      model_id: 40056
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dasher
+  asset40057:
+    display_name: daydreamer
+    lore:
+    - title item
+    resource:
+      model_id: 40057
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/daydreamer
+  asset40058:
+    display_name: decorated
+    lore:
+    - title item
+    resource:
+      model_id: 40058
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/decorated
+  asset40059:
+    display_name: default
+    lore:
+    - title item
+    resource:
+      model_id: 40059
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/default
+  asset40060:
+    display_name: detective
+    lore:
+    - title item
+    resource:
+      model_id: 40060
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/detective
+  asset40061:
+    display_name: devil
+    lore:
+    - title item
+    resource:
+      model_id: 40061
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/devil
+  asset40062:
+    display_name: divine
+    lore:
+    - title item
+    resource:
+      model_id: 40062
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/divine
+  asset40063:
+    display_name: doctor
+    lore:
+    - title item
+    resource:
+      model_id: 40063
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/doctor
+  asset40064:
+    display_name: dracula
+    lore:
+    - title item
+    resource:
+      model_id: 40064
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dracula
+  asset40065:
+    display_name: dragon
+    lore:
+    - title item
+    resource:
+      model_id: 40065
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dragon
+  asset40066:
+    display_name: dramatic
+    lore:
+    - title item
+    resource:
+      model_id: 40066
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/dramatic
+  asset40067:
+    display_name: easter
+    lore:
+    - title item
+    resource:
+      model_id: 40067
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/easter
+  asset40068:
+    display_name: eggcellent
+    lore:
+    - title item
+    resource:
+      model_id: 40068
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/eggcellent
+  asset40069:
+    display_name: einstein
+    lore:
+    - title item
+    resource:
+      model_id: 40069
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/einstein
+  asset40070:
+    display_name: elegant
+    lore:
+    - title item
+    resource:
+      model_id: 40070
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/elegant
+  asset40071:
+    display_name: elf
+    lore:
+    - title item
+    resource:
+      model_id: 40071
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/elf
+  asset40072:
+    display_name: enchanted
+    lore:
+    - title item
+    resource:
+      model_id: 40072
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/enchanted
+  asset40073:
+    display_name: endergetic
+    lore:
+    - title item
+    resource:
+      model_id: 40073
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/endergetic
+  asset40074:
+    display_name: engaged
+    lore:
+    - title item
+    resource:
+      model_id: 40074
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/engaged
+  asset40075:
+    display_name: eventful
+    lore:
+    - title item
+    resource:
+      model_id: 40075
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/eventful
+  asset40076:
+    display_name: equipped_007
+    lore:
+    - title item
+    resource:
+      model_id: 40076
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_007
+  asset40077:
+    display_name: equipped_acorn
+    lore:
+    - title item
+    resource:
+      model_id: 40077
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_acorn
+  asset40078:
+    display_name: equipped_actor
+    lore:
+    - title item
+    resource:
+      model_id: 40078
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_actor
+  asset40079:
+    display_name: equipped_addicted
+    lore:
+    - title item
+    resource:
+      model_id: 40079
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_addicted
+  asset40080:
+    display_name: equipped_adorable
+    lore:
+    - title item
+    resource:
+      model_id: 40080
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_adorable
+  asset40081:
+    display_name: equipped_alien
+    lore:
+    - title item
+    resource:
+      model_id: 40081
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_alien
+  asset40082:
+    display_name: equipped_ancient
+    lore:
+    - title item
+    resource:
+      model_id: 40082
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_ancient
+  asset40083:
+    display_name: equipped_angel
+    lore:
+    - title item
+    resource:
+      model_id: 40083
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_angel
+  asset40084:
+    display_name: equipped_anniversary
+    lore:
+    - title item
+    resource:
+      model_id: 40084
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_anniversary
+  asset40085:
+    display_name: equipped_annual
+    lore:
+    - title item
+    resource:
+      model_id: 40085
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_annual
+  asset40086:
+    display_name: equipped_archer
+    lore:
+    - title item
+    resource:
+      model_id: 40086
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_archer
+  asset40087:
+    display_name: equipped_artist
+    lore:
+    - title item
+    resource:
+      model_id: 40087
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_artist
+  asset40088:
+    display_name: equipped_astronaut
+    lore:
+    - title item
+    resource:
+      model_id: 40088
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_astronaut
+  asset40089:
+    display_name: equipped_athlete
+    lore:
+    - title item
+    resource:
+      model_id: 40089
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_athlete
+  asset40090:
+    display_name: equipped_baker
+    lore:
+    - title item
+    resource:
+      model_id: 40090
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_baker
+  asset40091:
+    display_name: equipped_beachy
+    lore:
+    - title item
+    resource:
+      model_id: 40091
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_beachy
+  asset40092:
+    display_name: equipped_bee
+    lore:
+    - title item
+    resource:
+      model_id: 40092
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_bee
+  asset40093:
+    display_name: equipped_beta
+    lore:
+    - title item
+    resource:
+      model_id: 40093
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_beta
+  asset40094:
+    display_name: equipped_birdy
+    lore:
+    - title item
+    resource:
+      model_id: 40094
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_birdy
+  asset40095:
+    display_name: equipped_birthday
+    lore:
+    - title item
+    resource:
+      model_id: 40095
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_birthday
+  asset40096:
+    display_name: equipped_blessed
+    lore:
+    - title item
+    resource:
+      model_id: 40096
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_blessed
+  asset40097:
+    display_name: equipped_blooming
+    lore:
+    - title item
+    resource:
+      model_id: 40097
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_blooming
+  asset40098:
+    display_name: equipped_bookworm
+    lore:
+    - title item
+    resource:
+      model_id: 40098
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_bookworm
+  asset40099:
+    display_name: equipped_boomer
+    lore:
+    - title item
+    resource:
+      model_id: 40099
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_boomer
+  asset40100:
+    display_name: equipped_bot
+    lore:
+    - title item
+    resource:
+      model_id: 40100
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_bot
+  asset400101:
+    display_name: equipped_broken
+    lore:
+    - title item
+    resource:
+      model_id: 400101
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_broken
+  asset40102:
+    display_name: equipped_bubbly
+    lore:
+    - title item
+    resource:
+      model_id: 40102
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_bubbly
+  asset40103:
+    display_name: equipped_buggy
+    lore:
+    - title item
+    resource:
+      model_id: 40103
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_buggy
+  asset40104:
+    display_name: equipped_bunny
+    lore:
+    - title item
+    resource:
+      model_id: 40104
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_bunny
+  asset40105:
+    display_name: equipped_caesar
+    lore:
+    - title item
+    resource:
+      model_id: 40105
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_caesar
+  asset40106:
+    display_name: equipped_captain
+    lore:
+    - title item
+    resource:
+      model_id: 40106
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_captain
+  asset40107:
+    display_name: equipped_celestial
+    lore:
+    - title item
+    resource:
+      model_id: 40107
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_celestial
+  asset40108:
+    display_name: equipped_ceo
+    lore:
+    - title item
+    resource:
+      model_id: 40108
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_ceo
+  asset40109:
+    display_name: equipped_chad
+    lore:
+    - title item
+    resource:
+      model_id: 40109
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_chad
+  asset40110:
+    display_name: equipped_champion
+    lore:
+    - title item
+    resource:
+      model_id: 40110
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_champion
+  asset40111:
+    display_name: equipped_cheesy
+    lore:
+    - title item
+    resource:
+      model_id: 40111
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cheesy
+  asset40112:
+    display_name: equipped_chef
+    lore:
+    - title item
+    resource:
+      model_id: 40112
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_chef
+  asset40113:
+    display_name: equipped_chief
+    lore:
+    - title item
+    resource:
+      model_id: 40113
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_chief
+  asset40114:
+    display_name: equipped_chirp
+    lore:
+    - title item
+    resource:
+      model_id: 40114
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_chirp
+  asset40115:
+    display_name: equipped_christmas
+    lore:
+    - title item
+    resource:
+      model_id: 40115
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_christmas
+  asset40116:
+    display_name: equipped_classical
+    lore:
+    - title item
+    resource:
+      model_id: 40116
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_classical
+  asset40117:
+    display_name: equipped_clover
+    lore:
+    - title item
+    resource:
+      model_id: 40117
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_clover
+  asset40118:
+    display_name: equipped_convict
+    lore:
+    - title item
+    resource:
+      model_id: 40118
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_convict
+  asset40119:
+    display_name: equipped_cook
+    lore:
+    - title item
+    resource:
+      model_id: 40119
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cook
+  asset40120:
+    display_name: equipped_cosmic
+    lore:
+    - title item
+    resource:
+      model_id: 40120
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cosmic
+  asset40121:
+    display_name: equipped_cozy
+    lore:
+    - title item
+    resource:
+      model_id: 40121
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cozy
+  asset40122:
+    display_name: equipped_crabby
+    lore:
+    - title item
+    resource:
+      model_id: 40122
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_crabby
+  asset40123:
+    display_name: equipped_crawly
+    lore:
+    - title item
+    resource:
+      model_id: 40123
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_crawly
+  asset40124:
+    display_name: equipped_creative
+    lore:
+    - title item
+    resource:
+      model_id: 40124
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_creative
+  asset40125:
+    display_name: equipped_creeper
+    lore:
+    - title item
+    resource:
+      model_id: 40125
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_creeper
+  asset40126:
+    display_name: equipped_criminal
+    lore:
+    - title item
+    resource:
+      model_id: 40126
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_criminal
+  asset40127:
+    display_name: equipped_cupid2
+    lore:
+    - title item
+    resource:
+      model_id: 40127
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cupid2
+  asset40128:
+    display_name: equipped_cute
+    lore:
+    - title item
+    resource:
+      model_id: 40128
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_cute
+  asset40129:
+    display_name: equipped_dancer
+    lore:
+    - title item
+    resource:
+      model_id: 40129
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dancer
+  asset40130:
+    display_name: equipped_dapper
+    lore:
+    - title item
+    resource:
+      model_id: 40130
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dapper
+  asset40131:
+    display_name: equipped_dasher
+    lore:
+    - title item
+    resource:
+      model_id: 40131
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dasher
+  asset40132:
+    display_name: equipped_daydreamer
+    lore:
+    - title item
+    resource:
+      model_id: 40132
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_daydreamer
+  asset40133:
+    display_name: equipped_decorated
+    lore:
+    - title item
+    resource:
+      model_id: 40133
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_decorated
+  asset40134:
+    display_name: equipped_detective
+    lore:
+    - title item
+    resource:
+      model_id: 40134
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_detective
+  asset40135:
+    display_name: equipped_devil
+    lore:
+    - title item
+    resource:
+      model_id: 40135
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_devil
+  asset40136:
+    display_name: equipped_divine
+    lore:
+    - title item
+    resource:
+      model_id: 40136
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_divine
+  asset40137:
+    display_name: equipped_doctor
+    lore:
+    - title item
+    resource:
+      model_id: 40137
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_doctor
+  asset40138:
+    display_name: equipped_dracula
+    lore:
+    - title item
+    resource:
+      model_id: 40138
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dracula
+  asset40139:
+    display_name: equipped_dragon
+    lore:
+    - title item
+    resource:
+      model_id: 40139
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dragon
+  asset40140:
+    display_name: equipped_dramatic
+    lore:
+    - title item
+    resource:
+      model_id: 40140
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_dramatic
+  asset40141:
+    display_name: equipped_easter
+    lore:
+    - title item
+    resource:
+      model_id: 40141
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_easter
+  asset40142:
+    display_name: equipped_eggcellent
+    lore:
+    - title item
+    resource:
+      model_id: 40142
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_eggcellent
+  asset40143:
+    display_name: equipped_einstein
+    lore:
+    - title item
+    resource:
+      model_id: 40143
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_einstein
+  asset40144:
+    display_name: equipped_elegant
+    lore:
+    - title item
+    resource:
+      model_id: 40144
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_elegant
+  asset40145:
+    display_name: equipped_elf
+    lore:
+    - title item
+    resource:
+      model_id: 40145
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_elf
+  asset40146:
+    display_name: equipped_enchanted
+    lore:
+    - title item
+    resource:
+      model_id: 40146
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_enchanted
+  asset40147:
+    display_name: equipped_endergetic
+    lore:
+    - title item
+    resource:
+      model_id: 40147
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_endergetic
+  asset40148:
+    display_name: equipped_engaged
+    lore:
+    - title item
+    resource:
+      model_id: 40148
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_engaged
+  asset40149:
+    display_name: equipped_eventful
+    lore:
+    - title item
+    resource:
+      model_id: 40149
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_eventful
+  asset40150:
+    display_name: equipped_explorer
+    lore:
+    - title item
+    resource:
+      model_id: 40150
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_explorer
+  asset40151:
+    display_name: equipped_explosive
+    lore:
+    - title item
+    resource:
+      model_id: 40151
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_explosive
+  asset40152:
+    display_name: equipped_fabled
+    lore:
+    - title item
+    resource:
+      model_id: 40152
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fabled
+  asset40153:
+    display_name: equipped_fairy
+    lore:
+    - title item
+    resource:
+      model_id: 40153
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fairy
+  asset40154:
+    display_name: equipped_fall
+    lore:
+    - title item
+    resource:
+      model_id: 40154
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fall
+  asset40155:
+    display_name: equipped_famous
+    lore:
+    - title item
+    resource:
+      model_id: 40155
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_famous
+  asset40156:
+    display_name: equipped_feasting
+    lore:
+    - title item
+    resource:
+      model_id: 40156
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_feasting
+  asset40157:
+    display_name: equipped_fighter
+    lore:
+    - title item
+    resource:
+      model_id: 40157
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fighter
+  asset40158:
+    display_name: equipped_firebolt
+    lore:
+    - title item
+    resource:
+      model_id: 40158
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_firebolt
+  asset40159:
+    display_name: equipped_foodie
+    lore:
+    - title item
+    resource:
+      model_id: 40159
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_foodie
+  asset40160:
+    display_name: equipped_friend
+    lore:
+    - title item
+    resource:
+      model_id: 40160
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_friend
+  asset40161:
+    display_name: equipped_friendly
+    lore:
+    - title item
+    resource:
+      model_id: 40161
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_friendly
+  asset40162:
+    display_name: equipped_frozen
+    lore:
+    - title item
+    resource:
+      model_id: 40162
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_frozen
+  asset40163:
+    display_name: equipped_fruity
+    lore:
+    - title item
+    resource:
+      model_id: 40163
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fruity
+  asset40164:
+    display_name: equipped_fungi
+    lore:
+    - title item
+    resource:
+      model_id: 40164
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_fungi
+  asset40165:
+    display_name: equipped_furry
+    lore:
+    - title item
+    resource:
+      model_id: 40165
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_furry
+  asset40166:
+    display_name: equipped_gambler
+    lore:
+    - title item
+    resource:
+      model_id: 40166
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_gambler
+  asset40167:
+    display_name: equipped_gifted
+    lore:
+    - title item
+    resource:
+      model_id: 40167
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_gifted
+  asset40168:
+    display_name: equipped_gingersnap
+    lore:
+    - title item
+    resource:
+      model_id: 40168
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_gingersnap
+  asset40169:
+    display_name: equipped_glamorous
+    lore:
+    - title item
+    resource:
+      model_id: 40169
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_glamorous
+  asset40170:
+    display_name: equipped_glitched
+    lore:
+    - title item
+    resource:
+      model_id: 40170
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_glitched
+  asset40171:
+    display_name: equipped_gnarly
+    lore:
+    - title item
+    resource:
+      model_id: 40171
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_gnarly
+  asset40172:
+    display_name: equipped_goblin
+    lore:
+    - title item
+    resource:
+      model_id: 40172
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_goblin
+  asset40173:
+    display_name: equipped_golden
+    lore:
+    - title item
+    resource:
+      model_id: 40173
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_golden
+  asset40174:
+    display_name: equipped_goth
+    lore:
+    - title item
+    resource:
+      model_id: 40174
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_goth
+  asset40175:
+    display_name: equipped_groggy
+    lore:
+    - title item
+    resource:
+      model_id: 40175
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_groggy
+  asset40176:
+    display_name: equipped_groovy
+    lore:
+    - title item
+    resource:
+      model_id: 40176
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_groovy
+  asset40177:
+    display_name: equipped_guard
+    lore:
+    - title item
+    resource:
+      model_id: 40177
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_guard
+  asset40178:
+    display_name: equipped_hades
+    lore:
+    - title item
+    resource:
+      model_id: 40178
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hades
+  asset40179:
+    display_name: equipped_halloween
+    lore:
+    - title item
+    resource:
+      model_id: 40179
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_halloween
+  asset40180:
+    display_name: equipped_hatchling
+    lore:
+    - title item
+    resource:
+      model_id: 40180
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hatchling
+  asset40181:
+    display_name: equipped_hatter
+    lore:
+    - title item
+    resource:
+      model_id: 40181
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hatter
+  asset40182:
+    display_name: equipped_haunted
+    lore:
+    - title item
+    resource:
+      model_id: 40182
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_haunted
+  asset40183:
+    display_name: equipped_herobrine
+    lore:
+    - title item
+    resource:
+      model_id: 40183
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_herobrine
+  asset40184:
+    display_name: equipped_hooty
+    lore:
+    - title item
+    resource:
+      model_id: 40184
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hooty
+  asset40185:
+    display_name: equipped_hungry
+    lore:
+    - title item
+    resource:
+      model_id: 40185
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hungry
+  asset40186:
+    display_name: equipped_husky
+    lore:
+    - title item
+    resource:
+      model_id: 40186
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_husky
+  asset40187:
+    display_name: equipped_hustler
+    lore:
+    - title item
+    resource:
+      model_id: 40187
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hustler
+  asset40188:
+    display_name: equipped_hydra
+    lore:
+    - title item
+    resource:
+      model_id: 40188
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_hydra
+  asset40189:
+    display_name: equipped_icebreaker
+    lore:
+    - title item
+    resource:
+      model_id: 40189
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_icebreaker
+  asset40190:
+    display_name: equipped_icecream
+    lore:
+    - title item
+    resource:
+      model_id: 40190
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_icecream
+  asset40191:
+    display_name: equipped_impasta
+    lore:
+    - title item
+    resource:
+      model_id: 40191
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_impasta
+  asset40192:
+    display_name: equipped_impulsive
+    lore:
+    - title item
+    resource:
+      model_id: 40192
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_impulsive
+  asset40193:
+    display_name: equipped_inferno
+    lore:
+    - title item
+    resource:
+      model_id: 40193
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_inferno
+  asset40194:
+    display_name: equipped_insane
+    lore:
+    - title item
+    resource:
+      model_id: 40194
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_insane
+  asset40195:
+    display_name: equipped_jellybean
+    lore:
+    - title item
+    resource:
+      model_id: 40195
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_jellybean
+  asset40196:
+    display_name: equipped_jester
+    lore:
+    - title item
+    resource:
+      model_id: 40196
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_jester
+  asset40197:
+    display_name: equipped_joker
+    lore:
+    - title item
+    resource:
+      model_id: 40197
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_joker
+  asset40198:
+    display_name: equipped_jolly
+    lore:
+    - title item
+    resource:
+      model_id: 40198
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_jolly
+  asset40199:
+    display_name: equipped_king
+    lore:
+    - title item
+    resource:
+      model_id: 40199
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_king
+  asset40200:
+    display_name: equipped_knight
+    lore:
+    - title item
+    resource:
+      model_id: 40200
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_knight
+  asset40201:
+    display_name: equipped_leprechaun
+    lore:
+    - title item
+    resource:
+      model_id: 40201
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_leprechaun
+  asset40202:
+    display_name: equipped_lifesaver
+    lore:
+    - title item
+    resource:
+      model_id: 40202
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_lifesaver
+  asset40203:
+    display_name: equipped_lobster
+    lore:
+    - title item
+    resource:
+      model_id: 40203
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_lobster
+  asset40204:
+    display_name: equipped_lucky2
+    lore:
+    - title item
+    resource:
+      model_id: 40204
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_lucky2
+  asset40205:
+    display_name: equipped_lunar
+    lore:
+    - title item
+    resource:
+      model_id: 40205
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_lunar
+  asset40:
+    display_name: equipped_magical
+    lore:
+    - title item
+    resource:
+      model_id: 40
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_magical
+  asset40207:
+    display_name: equipped_maple
+    lore:
+    - title item
+    resource:
+      model_id: 40207
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_maple
+  asset40208:
+    display_name: equipped_married
+    lore:
+    - title item
+    resource:
+      model_id: 40208
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_married
+  asset40209:
+    display_name: equipped_melon
+    lore:
+    - title item
+    resource:
+      model_id: 40209
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_melon
+  asset40210:
+    display_name: equipped_mermaid
+    lore:
+    - title item
+    resource:
+      model_id: 40210
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_mermaid
+  asset40211:
+    display_name: equipped_merry
+    lore:
+    - title item
+    resource:
+      model_id: 40211
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_merry
+  asset40212:
+    display_name: equipped_mozart
+    lore:
+    - title item
+    resource:
+      model_id: 40212
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_mozart
+  asset40213:
+    display_name: equipped_musician
+    lore:
+    - title item
+    resource:
+      model_id: 40213
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_musician
+  asset40214:
+    display_name: equipped_mystery
+    lore:
+    - title item
+    resource:
+      model_id: 40214
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_mystery
+  asset40215:
+    display_name: equipped_nautical
+    lore:
+    - title item
+    resource:
+      model_id: 40215
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_nautical
+  asset40216:
+    display_name: equipped_nerd
+    lore:
+    - title item
+    resource:
+      model_id: 40216
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_nerd
+  asset40217:
+    display_name: equipped_newbie
+    lore:
+    - title item
+    resource:
+      model_id: 40217
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_newbie
+  asset40218:
+    display_name: equipped_ninja
+    lore:
+    - title item
+    resource:
+      model_id: 40218
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_ninja
+  asset40219:
+    display_name: equipped_nocturnal
+    lore:
+    - title item
+    resource:
+      model_id: 40219
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_nocturnal
+  asset40220:
+    display_name: equipped_nutty
+    lore:
+    - title item
+    resource:
+      model_id: 40220
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_nutty
+  asset40221:
+    display_name: equipped_nymph
+    lore:
+    - title item
+    resource:
+      model_id: 40221
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_nymph
+  asset40222:
+    display_name: equipped_oracle
+    lore:
+    - title item
+    resource:
+      model_id: 40222
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_oracle
+  asset40223:
+    display_name: equipped_ouchie
+    lore:
+    - title item
+    resource:
+      model_id: 40223
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_ouchie
+  asset40224:
+    display_name: equipped_party
+    lore:
+    - title item
+    resource:
+      model_id: 40224
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_party
+  asset40225:
+    display_name: equipped_pawsome
+    lore:
+    - title item
+    resource:
+      model_id: 40225
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_pawsome
+  asset40226:
+    display_name: equipped_photogenic
+    lore:
+    - title item
+    resource:
+      model_id: 40226
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_photogenic
+  asset40227:
+    display_name: equipped_picnic
+    lore:
+    - title item
+    resource:
+      model_id: 40227
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_picnic
+  asset40228:
+    display_name: equipped_pirate
+    lore:
+    - title item
+    resource:
+      model_id: 40228
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_pirate
+  asset40229:
+    display_name: equipped_player
+    lore:
+    - title item
+    resource:
+      model_id: 40229
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_player
+  asset40230:
+    display_name: equipped_poetic
+    lore:
+    - title item
+    resource:
+      model_id: 40230
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_poetic
+  asset40231:
+    display_name: equipped_polar
+    lore:
+    - title item
+    resource:
+      model_id: 40231
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_polar
+  asset40232:
+    display_name: equipped_pride
+    lore:
+    - title item
+    resource:
+      model_id: 40232
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_pride
+  asset40233:
+    display_name: equipped_princess
+    lore:
+    - title item
+    resource:
+      model_id: 40233
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_princess
+  asset40234:
+    display_name: equipped_psychic
+    lore:
+    - title item
+    resource:
+      model_id: 40234
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_psychic
+  asset40235:
+    display_name: equipped_psycho
+    lore:
+    - title item
+    resource:
+      model_id: 40235
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_psycho
+  asset40236:
+    display_name: equipped_pupular
+    lore:
+    - title item
+    resource:
+      model_id: 40236
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_pupular
+  asset40237:
+    display_name: equipped_queen
+    lore:
+    - title item
+    resource:
+      model_id: 40237
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_queen
+  asset40238:
+    display_name: equipped_quirky
+    lore:
+    - title item
+    resource:
+      model_id: 40238
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_quirky
+  asset40239:
+    display_name: equipped_rawr
+    lore:
+    - title item
+    resource:
+      model_id: 40239
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_rawr
+  asset40240:
+    display_name: equipped_reaper
+    lore:
+    - title item
+    resource:
+      model_id: 40240
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_reaper
+  asset40241:
+    display_name: equipped_relaxed
+    lore:
+    - title item
+    resource:
+      model_id: 40241
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_relaxed
+  asset40242:
+    display_name: equipped_retro
+    lore:
+    - title item
+    resource:
+      model_id: 40242
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_retro
+  asset40243:
+    display_name: equipped_rich
+    lore:
+    - title item
+    resource:
+      model_id: 40243
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_rich
+  asset40244:
+    display_name: equipped_rockstar
+    lore:
+    - title item
+    resource:
+      model_id: 40244
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_rockstar
+  asset40245:
+    display_name: equipped_romantic
+    lore:
+    - title item
+    resource:
+      model_id: 40245
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_romantic
+  asset40246:
+    display_name: equipped_royal
+    lore:
+    - title item
+    resource:
+      model_id: 40246
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_royal
+  asset40247:
+    display_name: equipped_sandy
+    lore:
+    - title item
+    resource:
+      model_id: 40247
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sandy
+  asset40248:
+    display_name: equipped_savage
+    lore:
+    - title item
+    resource:
+      model_id: 40248
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_savage
+  asset40249:
+    display_name: equipped_scavenger
+    lore:
+    - title item
+    resource:
+      model_id: 40249
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_scavenger
+  asset40250:
+    display_name: equipped_scholar
+    lore:
+    - title item
+    resource:
+      model_id: 40250
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_scholar
+  asset40260:
+    display_name: equipped_scientist
+    lore:
+    - title item
+    resource:
+      model_id: 40260
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_scientist
+  asset40261:
+    display_name: equipped_scuba
+    lore:
+    - title item
+    resource:
+      model_id: 40261
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_scuba
+  asset40262:
+    display_name: equipped_shaded
+    lore:
+    - title item
+    resource:
+      model_id: 40262
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_shaded
+  asset40263:
+    display_name: equipped_shady
+    lore:
+    - title item
+    resource:
+      model_id: 40263
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_shady
+  asset40264:
+    display_name: equipped_sheriff
+    lore:
+    - title item
+    resource:
+      model_id: 40264
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sheriff
+  asset40265:
+    display_name: equipped_sherlock
+    lore:
+    - title item
+    resource:
+      model_id: 40265
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sherlock
+  asset40266:
+    display_name: equipped_shrimp
+    lore:
+    - title item
+    resource:
+      model_id: 40266
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_shrimp
+  asset40267:
+    display_name: equipped_skater
+    lore:
+    - title item
+    resource:
+      model_id: 40267
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_skater
+  asset40268:
+    display_name: equipped_slayer
+    lore:
+    - title item
+    resource:
+      model_id: 40268
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_slayer
+  asset40269:
+    display_name: equipped_sour
+    lore:
+    - title item
+    resource:
+      model_id: 40269
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sour
+  asset40270:
+    display_name: equipped_spartan
+    lore:
+    - title item
+    resource:
+      model_id: 40270
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_spartan
+  asset40271:
+    display_name: equipped_splashy
+    lore:
+    - title item
+    resource:
+      model_id: 40271
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_splashy
+  asset40272:
+    display_name: equipped_spoiled
+    lore:
+    - title item
+    resource:
+      model_id: 40272
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_spoiled
+  asset40273:
+    display_name: equipped_spring
+    lore:
+    - title item
+    resource:
+      model_id: 40273
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_spring
+  asset40274:
+    display_name: equipped_squeaky
+    lore:
+    - title item
+    resource:
+      model_id: 40274
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_squeaky
+  asset40275:
+    display_name: equipped_stacked
+    lore:
+    - title item
+    resource:
+      model_id: 40275
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_stacked
+  asset40276:
+    display_name: equipped_steve
+    lore:
+    - title item
+    resource:
+      model_id: 40276
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_steve
+  asset40277:
+    display_name: equipped_stormy
+    lore:
+    - title item
+    resource:
+      model_id: 40277
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_stormy
+  asset40278:
+    display_name: equipped_stumped
+    lore:
+    - title item
+    resource:
+      model_id: 40278
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_stumped
+  asset40279:
+    display_name: equipped_stylish
+    lore:
+    - title item
+    resource:
+      model_id: 40279
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_stylish
+  asset40280:
+    display_name: equipped_summer
+    lore:
+    - title item
+    resource:
+      model_id: 40280
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_summer
+  asset40281:
+    display_name: equipped_sunburnt
+    lore:
+    - title item
+    resource:
+      model_id: 40281
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sunburnt
+  asset40282:
+    display_name: equipped_sunny
+    lore:
+    - title item
+    resource:
+      model_id: 40282
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sunny
+  asset40283:
+    display_name: equipped_surfer
+    lore:
+    - title item
+    resource:
+      model_id: 40283
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_surfer
+  asset40284:
+    display_name: equipped_sus
+    lore:
+    - title item
+    resource:
+      model_id: 40284
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_sus
+  asset40285:
+    display_name: equipped_tabby
+    lore:
+    - title item
+    resource:
+      model_id: 40285
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_tabby
+  asset40286:
+    display_name: equipped_tiki
+    lore:
+    - title item
+    resource:
+      model_id: 40286
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_tiki
+  asset40287:
+    display_name: equipped_toxic
+    lore:
+    - title item
+    resource:
+      model_id: 40287
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_toxic
+  asset40288:
+    display_name: equipped_tree
+    lore:
+    - title item
+    resource:
+      model_id: 40288
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_tree
+  asset40289:
+    display_name: equipped_tropical
+    lore:
+    - title item
+    resource:
+      model_id: 40289
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_tropical
+  asset40290:
+    display_name: equipped_undead
+    lore:
+    - title item
+    resource:
+      model_id: 40290
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_undead
+  asset40291:
+    display_name: equipped_vader
+    lore:
+    - title item
+    resource:
+      model_id: 40291
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_vader
+  asset40292:
+    display_name: equipped_valentines
+    lore:
+    - title item
+    resource:
+      model_id: 40292
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_valentines
+  asset40293:
+    display_name: equipped_vampire
+    lore:
+    - title item
+    resource:
+      model_id: 40293
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_vampire
+  asset40294:
+    display_name: equipped_venus
+    lore:
+    - title item
+    resource:
+      model_id: 40294
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_venus
+  asset40295:
+    display_name: equipped_villain
+    lore:
+    - title item
+    resource:
+      model_id: 40295
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_villain
+  asset40296:
+    display_name: equipped_volcanic
+    lore:
+    - title item
+    resource:
+      model_id: 40296
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_volcanic
+  asset40297:
+    display_name: equipped_wavey
+    lore:
+    - title item
+    resource:
+      model_id: 40297
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_wavey
+  asset40298:
+    display_name: equipped_wicked
+    lore:
+    - title item
+    resource:
+      model_id: 40298
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_wicked
+  asset40299:
+    display_name: equipped_windy
+    lore:
+    - title item
+    resource:
+      model_id: 40299
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_windy
+  asset40300:
+    display_name: equipped_winter
+    lore:
+    - title item
+    resource:
+      model_id: 40300
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_winter
+  asset40301:
+    display_name: equipped_wise
+    lore:
+    - title item
+    resource:
+      model_id: 40301
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_wise
+  asset40302:
+    display_name: equipped_witch
+    lore:
+    - title item
+    resource:
+      model_id: 40302
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_witch
+  asset40303:
+    display_name: equipped_wizard
+    lore:
+    - title item
+    resource:
+      model_id: 40303
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_wizard
+  asset40304:
+    display_name: equipped_yoda
+    lore:
+    - title item
+    resource:
+      model_id: 40304
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_yoda
+  asset40305:
+    display_name: equipped_yummy
+    lore:
+    - title item
+    resource:
+      model_id: 40305
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_yummy
+  asset40306:
+    display_name: equipped_zeus
+    lore:
+    - title item
+    resource:
+      model_id: 40306
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_zeus
+  asset40307:
+    display_name: equipped_zombie
+    lore:
+    - title item
+    resource:
+      model_id: 40307
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_zombie
+  asset40308:
+    display_name: equipped_zoomer
+    lore:
+    - title item
+    resource:
+      model_id: 40308
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/equipped_zoomer
+  asset40309:
+    display_name: eventful
+    lore:
+    - title item
+    resource:
+      model_id: 40309
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/eventful
+  asset40310:
+    display_name: explorer
+    lore:
+    - title item
+    resource:
+      model_id: 40310
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/explorer
+  asset40311:
+    display_name: explosive
+    lore:
+    - title item
+    resource:
+      model_id: 40311
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/explosive
+  asset40312:
+    display_name: fabled
+    lore:
+    - title item
+    resource:
+      model_id: 40312
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fabled
+  asset40313:
+    display_name: fairy
+    lore:
+    - title item
+    resource:
+      model_id: 40313
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fairy
+  asset40314:
+    display_name: fall
+    lore:
+    - title item
+    resource:
+      model_id: 40314
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fall
+  asset40315:
+    display_name: famous
+    lore:
+    - title item
+    resource:
+      model_id: 40315
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/famous
+  asset40316:
+    display_name: feasting
+    lore:
+    - title item
+    resource:
+      model_id: 40316
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/feasting
+  asset40317:
+    display_name: fighter
+    lore:
+    - title item
+    resource:
+      model_id: 40317
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fighter
+  asset40318:
+    display_name: firebolt
+    lore:
+    - title item
+    resource:
+      model_id: 40318
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/firebolt
+  asset40319:
+    display_name: foodie
+    lore:
+    - title item
+    resource:
+      model_id: 40319
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/foodie
+  asset40320:
+    display_name: friend
+    lore:
+    - title item
+    resource:
+      model_id: 40320
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/friend
+  asset40321:
+    display_name: friendly
+    lore:
+    - title item
+    resource:
+      model_id: 40321
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/friendly
+  asset40322:
+    display_name: frozen
+    lore:
+    - title item
+    resource:
+      model_id: 40322
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/frozen
+  asset40323:
+    display_name: fruity
+    lore:
+    - title item
+    resource:
+      model_id: 40323
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fruity
+  asset40324:
+    display_name: fungi
+    lore:
+    - title item
+    resource:
+      model_id: 40324
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/fungi
+  asset40325:
+    display_name: furry
+    lore:
+    - title item
+    resource:
+      model_id: 40325
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/furry
+  asset40326:
+    display_name: gambler
+    lore:
+    - title item
+    resource:
+      model_id: 40326
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/gambler
+  asset40327:
+    display_name: gifted
+    lore:
+    - title item
+    resource:
+      model_id: 40327
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/gifted
+  asset40328:
+    display_name: gingersnap
+    lore:
+    - title item
+    resource:
+      model_id: 40328
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/gingersnap
+  asset40329:
+    display_name: glamorous
+    lore:
+    - title item
+    resource:
+      model_id: 40329
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/glamorous
+  asset40330:
+    display_name: glitched
+    lore:
+    - title item
+    resource:
+      model_id: 40330
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/glitched
+  asset40331:
+    display_name: gnarly
+    lore:
+    - title item
+    resource:
+      model_id: 40331
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/gnarly
+  asset40332:
+    display_name: goblin
+    lore:
+    - title item
+    resource:
+      model_id: 40332
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/goblin
+  asset40333:
+    display_name: golden
+    lore:
+    - title item
+    resource:
+      model_id: 40333
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/golden
+  asset40334:
+    display_name: goth
+    lore:
+    - title item
+    resource:
+      model_id: 40334
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/goth
+  asset40335:
+    display_name: groggy
+    lore:
+    - title item
+    resource:
+      model_id: 40335
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/groggy
+  asset40336:
+    display_name: groovy
+    lore:
+    - title item
+    resource:
+      model_id: 40336
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/groovy
+  asset40337:
+    display_name: guard
+    lore:
+    - title item
+    resource:
+      model_id: 40337
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/guard
+  asset40338:
+    display_name: hades
+    lore:
+    - title item
+    resource:
+      model_id: 40338
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hades
+  asset40339:
+    display_name: halloween
+    lore:
+    - title item
+    resource:
+      model_id: 40339
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/halloween
+  asset40340:
+    display_name: hatchling
+    lore:
+    - title item
+    resource:
+      model_id: 40340
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hatchling
+  asset40341:
+    display_name: hatter
+    lore:
+    - title item
+    resource:
+      model_id: 40341
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hatter
+  asset40342:
+    display_name: haunted
+    lore:
+    - title item
+    resource:
+      model_id: 40342
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/haunted
+  asset40343:
+    display_name: herobrine
+    lore:
+    - title item
+    resource:
+      model_id: 40343
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/herobrine
+  asset40344:
+    display_name: hooty
+    lore:
+    - title item
+    resource:
+      model_id: 40344
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hooty
+  asset40345:
+    display_name: hungry
+    lore:
+    - title item
+    resource:
+      model_id: 40345
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hungry
+  asset40346:
+    display_name: husky
+    lore:
+    - title item
+    resource:
+      model_id: 40346
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/husky
+  asset40347:
+    display_name: hustler
+    lore:
+    - title item
+    resource:
+      model_id: 40347
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hustler
+  asset40348:
+    display_name: hydra
+    lore:
+    - title item
+    resource:
+      model_id: 40348
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/hydra
+  asset40349:
+    display_name: icebreaker
+    lore:
+    - title item
+    resource:
+      model_id: 40349
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/icebreaker
+  asset40350:
+    display_name: icecream
+    lore:
+    - title item
+    resource:
+      model_id: 40350
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/icecream
+  asset40351:
+    display_name: impasta
+    lore:
+    - title item
+    resource:
+      model_id: 40351
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/impasta
+  asset40352:
+    display_name: impulsive
+    lore:
+    - title item
+    resource:
+      model_id: 40352
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/impulsive
+  asset40353:
+    display_name: inferno
+    lore:
+    - title item
+    resource:
+      model_id: 40353
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/inferno
+  asset40356:
+    display_name: insane
+    lore:
+    - title item
+    resource:
+      model_id: 40356
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/insane
+  asset40357:
+    display_name: jellybean
+    lore:
+    - title item
+    resource:
+      model_id: 40357
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/jellybean
+  asset40358:
+    display_name: jester
+    lore:
+    - title item
+    resource:
+      model_id: 40358
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/jester
+  asset40359:
+    display_name: joker
+    lore:
+    - title item
+    resource:
+      model_id: 40359
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/joker
+  asset40360:
+    display_name: jolly
+    lore:
+    - title item
+    resource:
+      model_id: 40360
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/jolly
+  asset40361:
+    display_name: king
+    lore:
+    - title item
+    resource:
+      model_id: 40361
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/king
+  asset40362:
+    display_name: knight
+    lore:
+    - title item
+    resource:
+      model_id: 40362
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/knight
+  asset40363:
+    display_name: leprechaun
+    lore:
+    - title item
+    resource:
+      model_id: 40363
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/leprechaun
+  asset40364:
+    display_name: lifesaver
+    lore:
+    - title item
+    resource:
+      model_id: 40364
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/lifesaver
+  asset40365:
+    display_name: lobster
+    lore:
+    - title item
+    resource:
+      model_id: 40365
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/lobster
+  asset40366:
+    display_name: lucky2
+    lore:
+    - title item
+    resource:
+      model_id: 40366
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/lucky2
+  asset40367:
+    display_name: lunar
+    lore:
+    - title item
+    resource:
+      model_id: 40367
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/lunar
+  asset40368:
+    display_name: magical
+    lore:
+    - title item
+    resource:
+      model_id: 40368
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/magical
+  asset40369:
+    display_name: maple
+    lore:
+    - title item
+    resource:
+      model_id: 40369
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/maple
+  asset40370:
+    display_name: married
+    lore:
+    - title item
+    resource:
+      model_id: 40370
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/married
+  asset40371:
+    display_name: melon
+    lore:
+    - title item
+    resource:
+      model_id: 40371
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/melon
+  asset40372:
+    display_name: mermaid
+    lore:
+    - title item
+    resource:
+      model_id: 40372
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/mermaid
+  asset40373:
+    display_name: merry
+    lore:
+    - title item
+    resource:
+      model_id: 40373
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/merry
+  asset40374:
+    display_name: mozart
+    lore:
+    - title item
+    resource:
+      model_id: 40374
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/mozart
+  asset40375:
+    display_name: musician
+    lore:
+    - title item
+    resource:
+      model_id: 40375
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/musician
+  asset40376:
+    display_name: mystery
+    lore:
+    - title item
+    resource:
+      model_id: 40376
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/mystery
+  asset40377:
+    display_name: nautical
+    lore:
+    - title item
+    resource:
+      model_id: 40377
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/nautical
+  asset40378:
+    display_name: nerd
+    lore:
+    - title item
+    resource:
+      model_id: 40378
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/nerd
+  asset40379:
+    display_name: newbie
+    lore:
+    - title item
+    resource:
+      model_id: 40379
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/newbie
+  asset40380:
+    display_name: ninja
+    lore:
+    - title item
+    resource:
+      model_id: 40380
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/ninja
+  asset40381:
+    display_name: nocturnal
+    lore:
+    - title item
+    resource:
+      model_id: 40381
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/nocturnal
+  asset40382:
+    display_name: nutty
+    lore:
+    - title item
+    resource:
+      model_id: 40382
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/nutty
+  asset40383:
+    display_name: nymph
+    lore:
+    - title item
+    resource:
+      model_id: 40383
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/nymph
+  asset40384:
+    display_name: oracle
+    lore:
+    - title item
+    resource:
+      model_id: 40384
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/oracle
+  asset40385:
+    display_name: ouchie
+    lore:
+    - title item
+    resource:
+      model_id: 40385
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/ouchie
+  asset40386:
+    display_name: party
+    lore:
+    - title item
+    resource:
+      model_id: 40386
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/party
+  asset40387:
+    display_name: pawsome
+    lore:
+    - title item
+    resource:
+      model_id: 40387
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/pawsome
+  asset40388:
+    display_name: photogenic
+    lore:
+    - title item
+    resource:
+      model_id: 40388
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/photogenic
+  asset40389:
+    display_name: picnic
+    lore:
+    - title item
+    resource:
+      model_id: 40389
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/picnic
+  asset40390:
+    display_name: pirate
+    lore:
+    - title item
+    resource:
+      model_id: 40390
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/pirate
+  asset40391:
+    display_name: player
+    lore:
+    - title item
+    resource:
+      model_id: 40391
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/player
+  asset40392:
+    display_name: poetic
+    lore:
+    - title item
+    resource:
+      model_id: 40392
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/poetic
+  asset40393:
+    display_name: polar
+    lore:
+    - title item
+    resource:
+      model_id: 40393
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/polar
+  asset40394:
+    display_name: pride
+    lore:
+    - title item
+    resource:
+      model_id: 40394
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/pride
+  asset40395:
+    display_name: princess
+    lore:
+    - title item
+    resource:
+      model_id: 40395
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/princess
+  asset40396:
+    display_name: psychic
+    lore:
+    - title item
+    resource:
+      model_id: 40396
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/psychic
+  asset40397:
+    display_name: psycho
+    lore:
+    - title item
+    resource:
+      model_id: 40397
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/psycho
+  asset40398:
+    display_name: pupular
+    lore:
+    - title item
+    resource:
+      model_id: 40398
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/pupular
+  asset40399:
+    display_name: queen
+    lore:
+    - title item
+    resource:
+      model_id: 40399
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/queen
+  asset40400:
+    display_name: quirky
+    lore:
+    - title item
+    resource:
+      model_id: 40400
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/quirky
+  asset40401:
+    display_name: rawr
+    lore:
+    - title item
+    resource:
+      model_id: 40401
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/rawr
+  asset40402:
+    display_name: reaper
+    lore:
+    - title item
+    resource:
+      model_id: 40402
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/reaper
+  asset40403:
+    display_name: relaxed
+    lore:
+    - title item
+    resource:
+      model_id: 40403
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/relaxed
+  asset40404:
+    display_name: retro
+    lore:
+    - title item
+    resource:
+      model_id: 40404
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/retro
+  asset40405:
+    display_name: rich
+    lore:
+    - title item
+    resource:
+      model_id: 40405
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/rich
+  asset40406:
+    display_name: rockstar
+    lore:
+    - title item
+    resource:
+      model_id: 40406
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/rockstar
+  asset40407:
+    display_name: romantic
+    lore:
+    - title item
+    resource:
+      model_id: 40407
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/romantic
+  asset40408:
+    display_name: royal
+    lore:
+    - title item
+    resource:
+      model_id: 40408
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/royal
+  asset40409:
+    display_name: sandy
+    lore:
+    - title item
+    resource:
+      model_id: 40409
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sandy
+  asset40410:
+    display_name: savage
+    lore:
+    - title item
+    resource:
+      model_id: 40410
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/savage
+  asset40411:
+    display_name: scavenger
+    lore:
+    - title item
+    resource:
+      model_id: 40411
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/scavenger
+  asset40412:
+    display_name: scholar
+    lore:
+    - title item
+    resource:
+      model_id: 40412
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/scholar
+  asset40413:
+    display_name: scientist
+    lore:
+    - title item
+    resource:
+      model_id: 40413
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/scientist
+  asset40414:
+    display_name: scuba
+    lore:
+    - title item
+    resource:
+      model_id: 40414
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/scuba
+  asset40415:
+    display_name: shaded
+    lore:
+    - title item
+    resource:
+      model_id: 40415
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/shaded
+  asset40416:
+    display_name: shady
+    lore:
+    - title item
+    resource:
+      model_id: 40416
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/shady
+  asset40417:
+    display_name: sheriff
+    lore:
+    - title item
+    resource:
+      model_id: 40417
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sheriff
+  asset40418:
+    display_name: sherlock
+    lore:
+    - title item
+    resource:
+      model_id: 40418
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sherlock
+  asset40419:
+    display_name: shrimp
+    lore:
+    - title item
+    resource:
+      model_id: 40419
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/shrimp
+  asset40420:
+    display_name: skater
+    lore:
+    - title item
+    resource:
+      model_id: 40420
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/skater
+  asset40421:
+    display_name: slayer
+    lore:
+    - title item
+    resource:
+      model_id: 40421
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/slayer
+  asset40422:
+    display_name: sour
+    lore:
+    - title item
+    resource:
+      model_id: 40422
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sour
+  asset40423:
+    display_name: spartan
+    lore:
+    - title item
+    resource:
+      model_id: 40423
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/spartan
+  asset40424:
+    display_name: splashy
+    lore:
+    - title item
+    resource:
+      model_id: 40424
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/splashy
+  asset40425:
+    display_name: spoiled
+    lore:
+    - title item
+    resource:
+      model_id: 40425
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/spoiled
+  asset40426:
+    display_name: spring
+    lore:
+    - title item
+    resource:
+      model_id: 40426
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/spring
+  asset40427:
+    display_name: squeaky
+    lore:
+    - title item
+    resource:
+      model_id: 40427
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/squeaky
+  asset40428:
+    display_name: stacked
+    lore:
+    - title item
+    resource:
+      model_id: 40428
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/stacked
+  asset40429:
+    display_name: staff_admin
+    lore:
+    - title item
+    resource:
+      model_id: 40429
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_admin
+  asset40430:
+    display_name: staff_guide
+    lore:
+    - title item
+    resource:
+      model_id: 40430
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_guide
+  asset40431:
+    display_name: staff_manager
+    lore:
+    - title item
+    resource:
+      model_id: 40431
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_manager
+  asset40432:
+    display_name: staff_moderator
+    lore:
+    - title item
+    resource:
+      model_id: 40432
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_moderator
+  asset40433:
+    display_name: staff_owner
+    lore:
+    - title item
+    resource:
+      model_id: 40433
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_owner
+  asset40434:
+    display_name: staff_team
+    lore:
+    - title item
+    resource:
+      model_id: 40434
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_team
+  asset40435:
+    display_name: staff_team_equipped
+    lore:
+    - title item
+    resource:
+      model_id: 40435
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/staff_team_equipped
+  asset40436:
+    display_name: steve
+    lore:
+    - title item
+    resource:
+      model_id: 40436
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/steve
+  asset40437:
+    display_name: stormy
+    lore:
+    - title item
+    resource:
+      model_id: 40437
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/stormy
+  asset40438:
+    display_name: stumped
+    lore:
+    - title item
+    resource:
+      model_id: 40438
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/stumped
+  asset40439:
+    display_name: stylish
+    lore:
+    - title item
+    resource:
+      model_id: 40439
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/stylish
+  asset40440:
+    display_name: summer
+    lore:
+    - title item
+    resource:
+      model_id: 40440
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/summer
+  asset40441:
+    display_name: sunburnt
+    lore:
+    - title item
+    resource:
+      model_id: 40441
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sunburnt
+  asset40442:
+    display_name: sunny
+    lore:
+    - title item
+    resource:
+      model_id: 40442
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sunny
+  asset40443:
+    display_name: surfer
+    lore:
+    - title item
+    resource:
+      model_id: 40443
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/surfer
+  asset40444:
+    display_name: sus
+    lore:
+    - title item
+    resource:
+      model_id: 40444
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/sus
+  asset40445:
+    display_name: tabby
+    lore:
+    - title item
+    resource:
+      model_id: 40445
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/tabby
+  asset40446:
+    display_name: tiki
+    lore:
+    - title item
+    resource:
+      model_id: 40446
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/tiki
+  asset40447:
+    display_name: toxic
+    lore:
+    - title item
+    resource:
+      model_id: 40447
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/toxic
+  asset40448:
+    display_name: tree
+    lore:
+    - title item
+    resource:
+      model_id: 40448
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/tree
+  asset40449:
+    display_name: tropical
+    lore:
+    - title item
+    resource:
+      model_id: 40449
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/tropical
+  asset40450:
+    display_name: undead
+    lore:
+    - title item
+    resource:
+      model_id: 40450
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/undead
+  asset40451:
+    display_name: vader
+    lore:
+    - title item
+    resource:
+      model_id: 40451
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/vader
+  asset40452:
+    display_name: valentines
+    lore:
+    - title item
+    resource:
+      model_id: 40452
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/valentines
+  asset40453:
+    display_name: vampire
+    lore:
+    - title item
+    resource:
+      model_id: 40453
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/vampire
+  asset40454:
+    display_name: venus
+    lore:
+    - title item
+    resource:
+      model_id: 40454
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/venus
+  asset40455:
+    display_name: villain
+    lore:
+    - title item
+    resource:
+      model_id: 40455
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/villain
+  asset40456:
+    display_name: volcanic
+    lore:
+    - title item
+    resource:
+      model_id: 40456
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/volcanic
+  asset40457:
+    display_name: wavey
+    lore:
+    - title item
+    resource:
+      model_id: 40457
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/wavey
+  asset40458:
+    display_name: wicked
+    lore:
+    - title item
+    resource:
+      model_id: 40458
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/wicked
+  asset40459:
+    display_name: windy
+    lore:
+    - title item
+    resource:
+      model_id: 40459
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/windy
+  asset40460:
+    display_name: winter
+    lore:
+    - title item
+    resource:
+      model_id: 40460
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/winter
+  asset40461:
+    display_name: wise
+    lore:
+    - title item
+    resource:
+      model_id: 40461
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/wise
+  asset40462:
+    display_name: witch
+    lore:
+    - title item
+    resource:
+      model_id: 40462
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/witch
+  asset40463:
+    display_name: wizard
+    lore:
+    - title item
+    resource:
+      model_id: 40463
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/wizard
+  asset40464:
+    display_name: yoda
+    lore:
+    - title item
+    resource:
+      model_id: 40464
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/yoda
+  asset40465:
+    display_name: yummy
+    lore:
+    - title item
+    resource:
+      model_id: 40465
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/yummy
+  asset40466:
+    display_name: zeus
+    lore:
+    - title item
+    resource:
+      model_id: 40466
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/zeus
+  asset40467:
+    display_name: zombie
+    lore:
+    - title item
+    resource:
+      model_id: 40467
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/zombie
+  asset40468:
+    display_name: zoomer
+    lore:
+    - title item
+    resource:
+      model_id: 40468
+      material: LEATHER_HORSE_ARMOR
+      model_path: titles/zoomer

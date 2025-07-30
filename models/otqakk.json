@@ -1,0 +1,1 @@
+{"textures":{"0":"hideaway:obs/pvr2ic","particle":"hideaway:particles/kvo-9t"},"elements":[{"from":[7.625,8,8],"to":[8.375,32,8],"faces":{"north":{"uv":[7.996,14.004,0.004,14.246],"rotation":90,"texture":"#0"}}}],"display":{"head":{"rotation":[0,180,0]}}}

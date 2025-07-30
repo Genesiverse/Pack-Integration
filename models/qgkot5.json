@@ -1,0 +1,1 @@
+{"textures":{"particle":"hideaway:particles/5dbb9q","7_x1024":"hideaway:obs/h8il2u"},"elements":[{"from":[8,4,-2],"to":[8,8,18],"rotation":{"angle":0,"axis":"y","origin":[21,-3.75,8]},"faces":{"east":{"uv":[5.03125,11.625,5.34375,11.6875],"texture":"#7_x1024"},"west":{"uv":[5.34375,11.625,5.65625,11.6875],"texture":"#7_x1024"}}}],"display":{"head":{"rotation":[0,180,0]}}}

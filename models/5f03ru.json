@@ -1,0 +1,1 @@
+{"credit":"Made with Blockbench","textures":{"layer0":"hideaway:obs/9ucunf","particle":"hideaway:particles/kvo-9t"},"elements":[{"from":[5.25,4.625,8],"to":[10.75,11.375,8],"rotation":{"angle":0,"axis":"y","origin":[8,8,8]},"faces":{"south":{"uv":[10.5,0,16,6.75],"texture":"#layer0"}}}],"gui_light":"front","display":{"gui":{"translation":[-19,52.5,-80],"scale":[4,4,4]}}}

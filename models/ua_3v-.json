@@ -1,0 +1,1 @@
+{"credit":"Made by CookiesNom with Blockbench","parent":"block/block","textures":{"particle":"hideaway:particles/c6p272","top":"hideaway:obs/ue0sb2"},"elements":[{"from":[0,-1.7938,0],"to":[16,-1.7938,16],"faces":{"up":{"uv":[0,0,16,16],"texture":"#top"},"down":{"uv":[0,0,16,16],"texture":"#top"}}}]}
