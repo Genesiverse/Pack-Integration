@@ -1,1 +1,0 @@
-{"textures":{"particle":"hideaway:particles/ailtct","10_x256":"hideaway:obs/na_dlk"},"elements":[{"from":[6.5,7.5,8],"to":[9.5,8.5,8],"rotation":{"angle":0,"axis":"y","origin":[11,1.5,12.5]},"faces":{"north":{"uv":[10.6875,12.5,10.5,12.5625],"texture":"#10_x256"}}}],"display":{"head":{"rotation":[0,180,0]}}}
