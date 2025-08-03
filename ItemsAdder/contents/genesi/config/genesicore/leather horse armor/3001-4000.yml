@@ -1,0 +1,881 @@
+############ MODEL 1D RANGE ITM55000 - ITM5500##################
+info:
+  namespace: genesicore
+items: 
+  asset3001:
+    display_name: mushroom arcade5item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3001
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade05/00"
+
+      
+  asset3002:
+    display_name: mushroom arcade5item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3002
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade05/01"
+
+      
+  asset3003:
+    display_name: mushroom arcade5item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3003
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade05/02"
+
+      
+  asset3004:
+    display_name: mushroom arcade5item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3004
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade05/03"
+
+      
+  # asset3005:
+    # display_name: mushroom arcade5item4
+    # hide_tooltip: true
+    # resource:   
+      # model_id: 3005
+      # material: LEATHER_HORSE_ARMOR
+      # model_path: "arcadium/arcade05/04"
+
+      
+  asset3006:
+    display_name: pony arcade6item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3006
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade06/00"
+
+      
+  asset3007:
+    display_name: pony arcade6item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3007
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade06/01"
+
+      
+  asset3008:
+    display_name: pony arcade6item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3008
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade06/02"
+
+      
+  asset3009:
+    display_name: pony arcade6item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3009
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade06/03"
+
+      
+  asset3010:
+    display_name: pony arcade6item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3010
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade06/04"
+
+      
+  asset3011:
+    display_name: pirates cove arcade7item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3011
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/00"
+
+      
+  asset3012:
+    display_name: pirates cove arcade7item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3012
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/01"
+
+      
+  asset3013:
+    display_name: pirates cove arcade7item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3013
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/02"
+
+      
+  asset3014:
+    display_name: pirates cove arcade7item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3014
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/03"
+
+      
+  asset3015:
+    display_name: pirates cove arcade7item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3015
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/04"
+
+      
+  asset3016:
+    display_name: pirates cove arcade7item5
+    hide_tooltip: true
+    resource:   
+      model_id: 3016
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade07/05"
+
+      
+  asset3017:
+    display_name: vegas arcade8item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3017
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/00"
+
+      
+  asset3018:
+    display_name: vegas arcade8item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3018
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/01"
+
+      
+  asset3019:
+    display_name: vegas arcade8item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3019
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/02"
+
+      
+  asset3020:
+    display_name: vegas arcade8item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3020
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/03"
+
+      
+  asset3021:
+    display_name: vegas arcade8item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3021
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/04"
+
+      
+  asset3022:
+    display_name: vegas arcade8item5
+    hide_tooltip: true
+    resource:   
+      model_id: 3022
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/05"
+
+      
+  asset3023:
+    display_name: vegas arcade8item6
+    hide_tooltip: true
+    resource:   
+      model_id: 3023
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/06"
+
+      
+  asset3024:
+    display_name: vegas arcade8item7
+    hide_tooltip: true
+    resource:   
+      model_id: 3024
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/07"
+
+      
+  asset3025:
+    display_name: vegas arcade8item8
+    hide_tooltip: true
+    resource:   
+      model_id: 3025
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/08"
+
+      
+  asset3026:
+    display_name: vegas arcade8item9
+    hide_tooltip: true
+    resource:   
+      model_id: 3026
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/09"
+
+      
+  asset3027:
+    display_name: vegas arcade8item10
+    hide_tooltip: true
+    resource:   
+      model_id: 3027
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/10"
+
+      
+  asset3028:
+    display_name: vegas arcade8item11
+    hide_tooltip: true
+    resource:   
+      model_id: 3028
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/11"
+
+      
+  asset3029:
+    display_name: vegas arcade8item12
+    hide_tooltip: true
+    resource:   
+      model_id: 3029
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/12"
+
+      
+  asset3030:
+    display_name: vegas arcade8item13
+    hide_tooltip: true
+    resource:   
+      model_id: 3030
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/13"
+
+      
+  asset3031:
+    display_name: vegas arcade8item14
+    hide_tooltip: true
+    resource:   
+      model_id: 3031
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/14"
+
+      
+  asset3032:
+    display_name: vegas arcade8item15
+    hide_tooltip: true
+    resource:   
+      model_id: 3032
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade08/15"
+
+      
+  asset3033:
+    display_name: mining arcade9item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3033
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/00"
+
+      
+  asset3034:
+    display_name: mining arcade9item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3034
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/01"
+
+      
+  asset3035:
+    display_name: mining arcade9item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3035
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/02"
+
+      
+  asset3036:
+    display_name: mining arcade9item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3036
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/03"
+
+      
+  asset3037:
+    display_name: mining arcade9item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3037
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/04"
+
+      
+  asset3038:
+    display_name: mining arcade9item5
+    hide_tooltip: true
+    resource:   
+      model_id: 3038
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/05"
+
+      
+  asset3039:
+    display_name: mining arcade9item6
+    hide_tooltip: true
+    resource:   
+      model_id: 3039
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/06"
+
+      
+  asset3040:
+    display_name: mining arcade9item7
+    hide_tooltip: true
+    resource:   
+      model_id: 3040
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/07"
+
+      
+  asset3041:
+    display_name: mining arcade9item8
+    hide_tooltip: true
+    resource:   
+      model_id: 3041
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/08"
+
+      
+  asset3042:
+    display_name: mining arcade9item9
+    hide_tooltip: true
+    resource:   
+      model_id: 3042
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/09"
+
+      
+  asset3043:
+    display_name: mining arcade9item10
+    hide_tooltip: true
+    resource:   
+      model_id: 3043
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/10"
+
+      
+  asset3044:
+    display_name: mining arcade9item11
+    hide_tooltip: true
+    resource:   
+      model_id: 3044
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade09/11"
+
+      
+  asset3045:
+    display_name: classic arcade10item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3045
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade10/00"
+
+      
+  asset3046:
+    display_name: classic arcade10item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3046
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade10/01"
+
+      
+  asset3047:
+    display_name: classic arcade10item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3047
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade10/02"
+
+      
+  asset3048:
+    display_name: classic arcade10item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3048
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade10/03"
+
+      
+  asset3049:
+    display_name: sugar skill arcade4item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3049
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade04/00"
+
+      
+  asset3050:
+    display_name: sugar skill arcade4item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3050
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade04/01"
+
+      
+  asset3051:
+    display_name: sugar skill arcade4item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3051
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade04/02"
+
+      
+  asset3052:
+    display_name: sugar skill arcade4item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3052
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade04/03"
+
+      
+  asset3053:
+    display_name: sugar skill arcade4item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3053
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade04/04"
+
+      
+  asset3054:
+    display_name: arcade parent arcade0item0
+    hide_tooltip: true
+    resource:   
+      model_id: 3054
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade00/00"
+
+      
+  asset3055:
+    display_name: arcade empty arcade0item1
+    hide_tooltip: true
+    resource:   
+      model_id: 3055
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade00/01"
+
+      
+  asset3056:
+    display_name: arcade empty arcade0item2
+    hide_tooltip: true
+    resource:   
+      model_id: 3056
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade00/02"
+
+      
+  asset3057:
+    display_name: arcade empty arcade0item3
+    hide_tooltip: true
+    resource:   
+      model_id: 3057
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade00/03"
+
+      
+  asset3058:
+    display_name: arcade empty arcade0item4
+    hide_tooltip: true
+    resource:   
+      model_id: 3058
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade00/04"
+
+      
+  asset3059:
+    display_name: anubis arcade02item5
+    hide_tooltip: true
+    resource:   
+      model_id: 3059
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade02/05"
+
+      
+  asset3060:
+    display_name: anubis arcade02item6
+    hide_tooltip: true
+    resource:   
+      model_id: 3060
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade02/06"  
+
+      
+  asset3061:
+    display_name: anubis arcade02item7
+    hide_tooltip: true
+    resource:   
+      model_id: 3061
+      material: LEATHER_HORSE_ARMOR
+      model_path: "arcadium/arcade02/07"  
+
+      
+  asset3062:
+    display_name: Premium Token
+    hide_tooltip: true
+    resource:   
+      model_id: 3062
+      material: LEATHER_HORSE_ARMOR
+      model_path: "items/premium_token"  
+
+      
+  asset3063:
+    display_name: UNO 9
+    hide_tooltip: true
+    resource:   
+      model_id: 3063
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/9"  
+      behaviors:
+        right_click:
+          animation: bow
+          
+  asset3064:
+    display_name: 'Summer Anniversary Hat'
+    lore:
+    - '&7I can fly!'
+    resource:
+      model_id: 3064
+      material: LEATHER_HORSE_ARMOR
+      model_path: "cosmetic/hats/summerani"
+    events:
+      interact:
+        right:
+          execute_commands:
+            cmd1:
+              command: 'hat'
+              as_console: false
+              delay: 0
+              
+  asset3065:
+    display_name: 'Toffee Apple'
+    lore:
+    - '&7I can fly!'
+    resource:
+      model_id: 3065
+      material: LEATHER_HORSE_ARMOR
+      model_path: "cosmetic/handheld/toffee_apple"
+    events:
+      interact:
+        right:
+          execute_commands:
+            cmd1:
+              command: 'hat'
+              as_console: false
+              delay: 0
+  asset3066:
+    display_name: card_00000
+    lore:
+    - '85001'
+    resource:
+      model_id: 3066
+      material: LEATHER_HORSE_ARMOR
+      model_path: "cards/card_00000"
+      
+  asset3068:
+    display_name: tall coffee
+    lore:
+    - '85001'
+    resource:
+      model_id: 3068
+      material: LEATHER_HORSE_ARMOR
+      model_path: "furniture/chalkboards/tall_coffee"
+      
+  asset3069:
+    display_name: hologram projector
+    lore:
+    - '85001'
+    resource:
+      model_id: 3069
+      material: LEATHER_HORSE_ARMOR
+      model_path: "furniture/otherfurniture/hologram_projector" 
+      
+  asset3070:
+    display_name: oak_round_picnic_table
+    lore:
+    - '85001'
+    resource:
+      model_id: 3070
+      material: LEATHER_HORSE_ARMOR
+      model_path: "furniture/otherfurniture/oak_round_picnic_table"  
+      
+  asset3071:
+    display_name: UNO 8
+    hide_tooltip: true
+    resource:   
+      model_id: 3071
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/8"  
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3072:
+    display_name: UNO 7
+    hide_tooltip: true
+    resource:   
+      model_id: 3072
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/7" 
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3073:
+    display_name: UNO 6
+    hide_tooltip: true
+    resource:   
+      model_id: 3073
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/6"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3074:
+    display_name: UNO 5
+    hide_tooltip: true
+    resource:   
+      model_id: 3074
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/5"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3075:
+    display_name: UNO 4
+    hide_tooltip: true
+    resource:   
+      model_id: 3075
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/4"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3076:
+    display_name: UNO 3
+    hide_tooltip: true
+    resource:   
+      model_id: 3076
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/3"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3077:
+    display_name: UNO 2
+    hide_tooltip: true
+    resource:   
+      model_id: 3077
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/2"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3078:
+    display_name: UNO 1
+    hide_tooltip: true
+    resource:   
+      model_id: 3078
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/1"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3079:
+    display_name: UNO 0
+    hide_tooltip: true
+    resource:   
+      model_id: 3079
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/0"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3080:
+    display_name: SKIP
+    hide_tooltip: true
+    resource:   
+      model_id: 3080
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/skip"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3081:
+    display_name: REVERSE
+    hide_tooltip: true
+    resource:   
+      model_id: 3081
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/reverse"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3082:
+    display_name: DRAW TWO
+    hide_tooltip: true
+    resource:   
+      model_id: 3082
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/draw_two"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3083:
+    display_name: DRAW FOUR
+    hide_tooltip: true
+    resource:   
+      model_id: 3083
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/draw_four"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3084:
+    display_name: WILD
+    hide_tooltip: true
+    resource:   
+      model_id: 3084
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/wild"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3085:
+    display_name: UNO
+    hide_tooltip: true
+    resource:   
+      model_id: 3085
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/uno"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3086:
+    display_name: WITHDRAW
+    hide_tooltip: true
+    resource:   
+      model_id: 3086
+      material: LEATHER_HORSE_ARMOR
+      model_path: "games/uno/withdraw"
+      behaviors:
+        right_click:
+          animation: bow
+      
+  asset3087:
+    display_name: Hat Category
+    hide_tooltip: false
+    resource:   
+      model_id: 3087
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/hat_category_button"
+      
+  asset3088:
+    display_name: Furniture Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3088
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/furniture_category_button"
+      
+  asset3089:
+    display_name: Handheld Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3089
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/handheld_category_button"
+      
+  asset3090:
+    display_name: Title Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3090
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/title_category_button"
+      
+  asset3091:
+    display_name: Wall Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3091
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/wall_category_button"
+      
+  asset3092:
+    display_name: Pic Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3092
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/pic_category_button"
+      
+  asset3093:
+    display_name: Frame Category
+    hide_tooltip: true
+    resource:   
+      model_id: 3093
+      material: LEATHER_HORSE_ARMOR
+      model_path: "ui/market/frame_category_button"
+      
+  asset3094:
+    display_name: Elevator
+    hide_tooltip: true
+    resource:   
+      model_id: 3094
+      material: LEATHER_HORSE_ARMOR
+      model_path: "collection/elevator"
