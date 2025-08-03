@@ -1,0 +1,2376 @@
+info:
+  namespace: genesicore
+items:
+  asset3095:
+    display_name: '&rasset3095'
+    resource:
+      model_id: 3095
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3095"
+
+  asset3096:
+    display_name: '&rasset3096'
+    resource:
+      model_id: 3096
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3096"
+
+  asset3097:
+    display_name: '&rasset3097'
+    resource:
+      model_id: 3097
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3097"
+
+  asset3098:
+    display_name: '&rasset3098'
+    resource:
+      model_id: 3098
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3098"
+
+  asset3099:
+    display_name: '&rasset3099'
+    resource:
+      model_id: 3099
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3099"
+
+  asset3100:
+    display_name: '&rasset3100'
+    resource:
+      model_id: 3100
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3100"
+
+  asset3101:
+    display_name: '&rasset3101'
+    resource:
+      model_id: 3101
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3101"
+
+  asset3102:
+    display_name: '&rasset3102'
+    resource:
+      model_id: 3102
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3102"
+
+  asset3103:
+    display_name: '&rasset3103'
+    resource:
+      model_id: 3103
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3103"
+
+  asset3104:
+    display_name: '&rasset3104'
+    resource:
+      model_id: 3104
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3104"
+
+  asset3105:
+    display_name: '&rasset3105'
+    resource:
+      model_id: 3105
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3105"
+
+  asset3106:
+    display_name: '&rasset3106'
+    resource:
+      model_id: 3106
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3106"
+
+  asset3107:
+    display_name: '&rasset3107'
+    resource:
+      model_id: 3107
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3107"
+
+  asset3108:
+    display_name: '&rasset3108'
+    resource:
+      model_id: 3108
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3108"
+
+  asset3109:
+    display_name: '&rasset3109'
+    resource:
+      model_id: 3109
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3109"
+
+  asset3110:
+    display_name: '&rasset3110'
+    resource:
+      model_id: 3110
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3110"
+
+  asset3111:
+    display_name: '&rasset3111'
+    resource:
+      model_id: 3111
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3111"
+
+  asset3112:
+    display_name: '&rasset3112'
+    resource:
+      model_id: 3112
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3112"
+
+  asset3113:
+    display_name: '&rasset3113'
+    resource:
+      model_id: 3113
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3113"
+
+  asset3114:
+    display_name: '&rasset3114'
+    resource:
+      model_id: 3114
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3114"
+
+  asset3115:
+    display_name: '&rasset3115'
+    resource:
+      model_id: 3115
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3115"
+
+  asset3116:
+    display_name: '&rasset3116'
+    resource:
+      model_id: 3116
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3116"
+
+  asset3117:
+    display_name: '&rasset3117'
+    resource:
+      model_id: 3117
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3117"
+
+  asset3118:
+    display_name: '&rasset3118'
+    resource:
+      model_id: 3118
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3118"
+
+  asset3119:
+    display_name: '&rasset3119'
+    resource:
+      model_id: 3119
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3119"
+
+  asset3120:
+    display_name: '&rasset3120'
+    resource:
+      model_id: 3120
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3120"
+
+  asset3121:
+    display_name: '&rasset3121'
+    resource:
+      model_id: 3121
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3121"
+
+  asset3122:
+    display_name: '&rasset3122'
+    resource:
+      model_id: 3122
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3122"
+
+  asset3123:
+    display_name: '&rasset3123'
+    resource:
+      model_id: 3123
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3123"
+
+  asset3124:
+    display_name: '&rasset3124'
+    resource:
+      model_id: 3124
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3124"
+
+  asset3125:
+    display_name: '&rasset3125'
+    resource:
+      model_id: 3125
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3125"
+
+  asset3126:
+    display_name: '&rasset3126'
+    resource:
+      model_id: 3126
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3126"
+
+  asset3127:
+    display_name: '&rasset3127'
+    resource:
+      model_id: 3127
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3127"
+
+  asset3128:
+    display_name: '&rasset3128'
+    resource:
+      model_id: 3128
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3128"
+
+  asset3129:
+    display_name: '&rasset3129'
+    resource:
+      model_id: 3129
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3129"
+
+  asset3130:
+    display_name: '&rasset3130'
+    resource:
+      model_id: 3130
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3130"
+
+  asset3131:
+    display_name: '&rasset3131'
+    resource:
+      model_id: 3131
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3131"
+
+  asset3132:
+    display_name: '&rasset3132'
+    resource:
+      model_id: 3132
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3132"
+
+  asset3133:
+    display_name: '&rasset3133'
+    resource:
+      model_id: 3133
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3133"
+
+  asset3134:
+    display_name: '&rasset3134'
+    resource:
+      model_id: 3134
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3134"
+
+  asset3135:
+    display_name: '&rasset3135'
+    resource:
+      model_id: 3135
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3135"
+
+  asset3136:
+    display_name: '&rasset3136'
+    resource:
+      model_id: 3136
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3136"
+
+  asset3137:
+    display_name: '&rasset3137'
+    resource:
+      model_id: 3137
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3137"
+
+  asset3138:
+    display_name: '&rasset3138'
+    resource:
+      model_id: 3138
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3138"
+
+  asset3139:
+    display_name: '&rasset3139'
+    resource:
+      model_id: 3139
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3139"
+
+  asset3140:
+    display_name: '&rasset3140'
+    resource:
+      model_id: 3140
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3140"
+
+  asset3141:
+    display_name: '&rasset3141'
+    resource:
+      model_id: 3141
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3141"
+
+  asset3142:
+    display_name: '&rasset3142'
+    resource:
+      model_id: 3142
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3142"
+
+  asset3143:
+    display_name: '&rasset3143'
+    resource:
+      model_id: 3143
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3143"
+
+  asset3144:
+    display_name: '&rasset3144'
+    resource:
+      model_id: 3144
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3144"
+
+  asset3145:
+    display_name: '&rasset3145'
+    resource:
+      model_id: 3145
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3145"
+
+  asset3146:
+    display_name: '&rasset3146'
+    resource:
+      model_id: 3146
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3146"
+
+  asset3147:
+    display_name: '&rasset3147'
+    resource:
+      model_id: 3147
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3147"
+
+  asset3148:
+    display_name: '&rasset3148'
+    resource:
+      model_id: 3148
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3148"
+
+  asset3149:
+    display_name: '&rasset3149'
+    resource:
+      model_id: 3149
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3149"
+
+  asset3150:
+    display_name: '&rasset3150'
+    resource:
+      model_id: 3150
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3150"
+
+  asset3151:
+    display_name: '&rasset3151'
+    resource:
+      model_id: 3151
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3151"
+
+  asset3152:
+    display_name: '&rasset3152'
+    resource:
+      model_id: 3152
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3152"
+
+  asset3153:
+    display_name: '&rasset3153'
+    resource:
+      model_id: 3153
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3153"
+
+  asset3154:
+    display_name: '&rasset3154'
+    resource:
+      model_id: 3154
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3154"
+
+  asset3155:
+    display_name: '&rasset3155'
+    resource:
+      model_id: 3155
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3155"
+
+  asset3156:
+    display_name: '&rasset3156'
+    resource:
+      model_id: 3156
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3156"
+
+  asset3157:
+    display_name: '&rasset3157'
+    resource:
+      model_id: 3157
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3157"
+
+  asset3158:
+    display_name: '&rasset3158'
+    resource:
+      model_id: 3158
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3158"
+
+  asset3159:
+    display_name: '&rasset3159'
+    resource:
+      model_id: 3159
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3159"
+
+  asset3160:
+    display_name: '&rasset3160'
+    resource:
+      model_id: 3160
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3160"
+
+  asset3161:
+    display_name: '&rasset3161'
+    resource:
+      model_id: 3161
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3161"
+
+  asset3162:
+    display_name: '&rasset3162'
+    resource:
+      model_id: 3162
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3162"
+
+  asset3163:
+    display_name: '&rasset3163'
+    resource:
+      model_id: 3163
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3163"
+
+  asset3164:
+    display_name: '&rasset3164'
+    resource:
+      model_id: 3164
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3164"
+
+  asset3165:
+    display_name: '&rasset3165'
+    resource:
+      model_id: 3165
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3165"
+
+  asset3166:
+    display_name: '&rasset3166'
+    resource:
+      model_id: 3166
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3166"
+
+  asset3167:
+    display_name: '&rasset3167'
+    resource:
+      model_id: 3167
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3167"
+
+  asset3168:
+    display_name: '&rasset3168'
+    resource:
+      model_id: 3168
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3168"
+
+  asset3169:
+    display_name: '&rasset3169'
+    resource:
+      model_id: 3169
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3169"
+
+  asset3170:
+    display_name: '&rasset3170'
+    resource:
+      model_id: 3170
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3170"
+
+  asset3171:
+    display_name: '&rasset3171'
+    resource:
+      model_id: 3171
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3171"
+
+  asset3172:
+    display_name: '&rasset3172'
+    resource:
+      model_id: 3172
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3172"
+
+  asset3173:
+    display_name: '&rasset3173'
+    resource:
+      model_id: 3173
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3173"
+
+  asset3174:
+    display_name: '&rasset3174'
+    resource:
+      model_id: 3174
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3174"
+
+  asset3175:
+    display_name: '&rasset3175'
+    resource:
+      model_id: 3175
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3175"
+
+  asset3176:
+    display_name: '&rasset3176'
+    resource:
+      model_id: 3176
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3176"
+
+  asset3177:
+    display_name: '&rasset3177'
+    resource:
+      model_id: 3177
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3177"
+
+  asset3178:
+    display_name: '&rasset3178'
+    resource:
+      model_id: 3178
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3178"
+
+  asset3179:
+    display_name: '&rasset3179'
+    resource:
+      model_id: 3179
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3179"
+
+  asset3180:
+    display_name: '&rasset3180'
+    resource:
+      model_id: 3180
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3180"
+
+  asset3181:
+    display_name: '&rasset3181'
+    resource:
+      model_id: 3181
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3181"
+
+  asset3182:
+    display_name: '&rasset3182'
+    resource:
+      model_id: 3182
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3182"
+
+  asset3183:
+    display_name: '&rasset3183'
+    resource:
+      model_id: 3183
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3183"
+
+  asset3184:
+    display_name: '&rasset3184'
+    resource:
+      model_id: 3184
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3184"
+
+  asset3185:
+    display_name: '&rasset3185'
+    resource:
+      model_id: 3185
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3185"
+
+  asset3186:
+    display_name: '&rasset3186'
+    resource:
+      model_id: 3186
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3186"
+
+  asset3187:
+    display_name: '&rasset3187'
+    resource:
+      model_id: 3187
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3187"
+
+  asset3188:
+    display_name: '&rasset3188'
+    resource:
+      model_id: 3188
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3188"
+
+  asset3189:
+    display_name: '&rasset3189'
+    resource:
+      model_id: 3189
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3189"
+
+  asset3190:
+    display_name: '&rasset3190'
+    resource:
+      model_id: 3190
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3190"
+
+  asset3191:
+    display_name: '&rasset3191'
+    resource:
+      model_id: 3191
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3191"
+
+  asset3192:
+    display_name: '&rasset3192'
+    resource:
+      model_id: 3192
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3192"
+
+  asset3193:
+    display_name: '&rasset3193'
+    resource:
+      model_id: 3193
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3193"
+
+  asset3194:
+    display_name: '&rasset3194'
+    resource:
+      model_id: 3194
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3194"
+
+  asset3195:
+    display_name: '&rasset3195'
+    resource:
+      model_id: 3195
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3195"
+
+  asset3196:
+    display_name: '&rasset3196'
+    resource:
+      model_id: 3196
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3196"
+
+  asset3197:
+    display_name: '&rasset3197'
+    resource:
+      model_id: 3197
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3197"
+
+  asset3198:
+    display_name: '&rasset3198'
+    resource:
+      model_id: 3198
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3198"
+
+  asset3199:
+    display_name: '&rasset3199'
+    resource:
+      model_id: 3199
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3199"
+
+  asset3200:
+    display_name: '&rasset3200'
+    resource:
+      model_id: 3200
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3200"
+
+  asset3201:
+    display_name: '&rasset3201'
+    resource:
+      model_id: 3201
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3201"
+
+  asset3202:
+    display_name: '&rasset3202'
+    resource:
+      model_id: 3202
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3202"
+
+  asset3203:
+    display_name: '&rasset3203'
+    resource:
+      model_id: 3203
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3203"
+
+  asset3204:
+    display_name: '&rasset3204'
+    resource:
+      model_id: 3204
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3204"
+
+  asset3205:
+    display_name: '&rasset3205'
+    resource:
+      model_id: 3205
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3205"
+
+  asset3206:
+    display_name: '&rasset3206'
+    resource:
+      model_id: 3206
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3206"
+
+  asset3207:
+    display_name: '&rasset3207'
+    resource:
+      model_id: 3207
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3207"
+
+  asset3208:
+    display_name: '&rasset3208'
+    resource:
+      model_id: 3208
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3208"
+
+  asset3209:
+    display_name: '&rasset3209'
+    resource:
+      model_id: 3209
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3209"
+
+  asset3210:
+    display_name: '&rasset3210'
+    resource:
+      model_id: 3210
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3210"
+
+  asset3211:
+    display_name: '&rasset3211'
+    resource:
+      model_id: 3211
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3211"
+
+  asset3212:
+    display_name: '&rasset3212'
+    resource:
+      model_id: 3212
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3212"
+
+  asset3213:
+    display_name: '&rasset3213'
+    resource:
+      model_id: 3213
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3213"
+
+  asset3214:
+    display_name: '&rasset3214'
+    resource:
+      model_id: 3214
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3214"
+
+  asset3215:
+    display_name: '&rasset3215'
+    resource:
+      model_id: 3215
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3215"
+
+  asset3216:
+    display_name: '&rasset3216'
+    resource:
+      model_id: 3216
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3216"
+
+  asset3217:
+    display_name: '&rasset3217'
+    resource:
+      model_id: 3217
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3217"
+
+  asset3218:
+    display_name: '&rasset3218'
+    resource:
+      model_id: 3218
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3218"
+
+  asset3219:
+    display_name: '&rasset3219'
+    resource:
+      model_id: 3219
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3219"
+
+  asset3220:
+    display_name: '&rasset3220'
+    resource:
+      model_id: 3220
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3220"
+
+  asset3221:
+    display_name: '&rasset3221'
+    resource:
+      model_id: 3221
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3221"
+
+  asset3222:
+    display_name: '&rasset3222'
+    resource:
+      model_id: 3222
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3222"
+
+  asset3223:
+    display_name: '&rasset3223'
+    resource:
+      model_id: 3223
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3223"
+
+  asset3224:
+    display_name: '&rasset3224'
+    resource:
+      model_id: 3224
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3224"
+
+  asset3225:
+    display_name: '&rasset3225'
+    resource:
+      model_id: 3225
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3225"
+
+  asset3226:
+    display_name: '&rasset3226'
+    resource:
+      model_id: 3226
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3226"
+
+  asset3227:
+    display_name: '&rasset3227'
+    resource:
+      model_id: 3227
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3227"
+
+  asset3228:
+    display_name: '&rasset3228'
+    resource:
+      model_id: 3228
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3228"
+
+  asset3229:
+    display_name: '&rasset3229'
+    resource:
+      model_id: 3229
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3229"
+
+  asset3230:
+    display_name: '&rasset3230'
+    resource:
+      model_id: 3230
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3230"
+
+  asset3231:
+    display_name: '&rasset3231'
+    resource:
+      model_id: 3231
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3231"
+
+  asset3232:
+    display_name: '&rasset3232'
+    resource:
+      model_id: 3232
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3232"
+
+  asset3233:
+    display_name: '&rasset3233'
+    resource:
+      model_id: 3233
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3233"
+
+  asset3234:
+    display_name: '&rasset3234'
+    resource:
+      model_id: 3234
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3234"
+
+  asset3235:
+    display_name: '&rasset3235'
+    resource:
+      model_id: 3235
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3235"
+
+  asset3236:
+    display_name: '&rasset3236'
+    resource:
+      model_id: 3236
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3236"
+
+  asset3237:
+    display_name: '&rasset3237'
+    resource:
+      model_id: 3237
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3237"
+
+  asset3238:
+    display_name: '&rasset3238'
+    resource:
+      model_id: 3238
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3238"
+
+  asset3239:
+    display_name: '&rasset3239'
+    resource:
+      model_id: 3239
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3239"
+
+  asset3240:
+    display_name: '&rasset3240'
+    resource:
+      model_id: 3240
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3240"
+
+  asset3241:
+    display_name: '&rasset3241'
+    resource:
+      model_id: 3241
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3241"
+
+  asset3242:
+    display_name: '&rasset3242'
+    resource:
+      model_id: 3242
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3242"
+
+  asset3243:
+    display_name: '&rasset3243'
+    resource:
+      model_id: 3243
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3243"
+
+  asset3244:
+    display_name: '&rasset3244'
+    resource:
+      model_id: 3244
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3244"
+
+  asset3245:
+    display_name: '&rasset3245'
+    resource:
+      model_id: 3245
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3245"
+
+  asset3246:
+    display_name: '&rasset3246'
+    resource:
+      model_id: 3246
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3246"
+
+  asset3247:
+    display_name: '&rasset3247'
+    resource:
+      model_id: 3247
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3247"
+
+  asset3248:
+    display_name: '&rasset3248'
+    resource:
+      model_id: 3248
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3248"
+
+  asset3249:
+    display_name: '&rasset3249'
+    resource:
+      model_id: 3249
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3249"
+
+  asset3250:
+    display_name: '&rasset3250'
+    resource:
+      model_id: 3250
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3250"
+
+  asset3251:
+    display_name: '&rasset3251'
+    resource:
+      model_id: 3251
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3251"
+
+  asset3252:
+    display_name: '&rasset3252'
+    resource:
+      model_id: 3252
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3252"
+
+  asset3253:
+    display_name: '&rasset3253'
+    resource:
+      model_id: 3253
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3253"
+
+  asset3254:
+    display_name: '&rasset3254'
+    resource:
+      model_id: 3254
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3254"
+
+  asset3255:
+    display_name: '&rasset3255'
+    resource:
+      model_id: 3255
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3255"
+
+  asset3256:
+    display_name: '&rasset3256'
+    resource:
+      model_id: 3256
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3256"
+
+  asset3257:
+    display_name: '&rasset3257'
+    resource:
+      model_id: 3257
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3257"
+
+  asset3258:
+    display_name: '&rasset3258'
+    resource:
+      model_id: 3258
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3258"
+
+  asset3259:
+    display_name: '&rasset3259'
+    resource:
+      model_id: 3259
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3259"
+
+  asset3260:
+    display_name: '&rasset3260'
+    resource:
+      model_id: 3260
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3260"
+
+  asset3261:
+    display_name: '&rasset3261'
+    resource:
+      model_id: 3261
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3261"
+
+  asset3262:
+    display_name: '&rasset3262'
+    resource:
+      model_id: 3262
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3262"
+
+  asset3263:
+    display_name: '&rasset3263'
+    resource:
+      model_id: 3263
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3263"
+
+  asset3264:
+    display_name: '&rasset3264'
+    resource:
+      model_id: 3264
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3264"
+
+  asset3265:
+    display_name: '&rasset3265'
+    resource:
+      model_id: 3265
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3265"
+
+  asset3266:
+    display_name: '&rasset3266'
+    resource:
+      model_id: 3266
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3266"
+
+  asset3267:
+    display_name: '&rasset3267'
+    resource:
+      model_id: 3267
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3267"
+
+  asset3268:
+    display_name: '&rasset3268'
+    resource:
+      model_id: 3268
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3268"
+
+  asset3269:
+    display_name: '&rasset3269'
+    resource:
+      model_id: 3269
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3269"
+
+  asset3270:
+    display_name: '&rasset3270'
+    resource:
+      model_id: 3270
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3270"
+
+  asset3271:
+    display_name: '&rasset3271'
+    resource:
+      model_id: 3271
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3271"
+
+  asset3272:
+    display_name: '&rasset3272'
+    resource:
+      model_id: 3272
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3272"
+
+  asset3273:
+    display_name: '&rasset3273'
+    resource:
+      model_id: 3273
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3273"
+
+  asset3274:
+    display_name: '&rasset3274'
+    resource:
+      model_id: 3274
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3274"
+
+  asset3275:
+    display_name: '&rasset3275'
+    resource:
+      model_id: 3275
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3275"
+
+  asset3276:
+    display_name: '&rasset3276'
+    resource:
+      model_id: 3276
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3276"
+
+  asset3277:
+    display_name: '&rasset3277'
+    resource:
+      model_id: 3277
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3277"
+
+  asset3278:
+    display_name: '&rasset3278'
+    resource:
+      model_id: 3278
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3278"
+
+  asset3279:
+    display_name: '&rasset3279'
+    resource:
+      model_id: 3279
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3279"
+
+  asset3280:
+    display_name: '&rasset3280'
+    resource:
+      model_id: 3280
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3280"
+
+  asset3281:
+    display_name: '&rasset3281'
+    resource:
+      model_id: 3281
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3281"
+
+  asset3282:
+    display_name: '&rasset3282'
+    resource:
+      model_id: 3282
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3282"
+
+  asset3283:
+    display_name: '&rasset3283'
+    resource:
+      model_id: 3283
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3283"
+
+  asset3284:
+    display_name: '&rasset3284'
+    resource:
+      model_id: 3284
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3284"
+
+  asset3285:
+    display_name: '&rasset3285'
+    resource:
+      model_id: 3285
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3285"
+
+  asset3286:
+    display_name: '&rasset3286'
+    resource:
+      model_id: 3286
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3286"
+
+  asset3287:
+    display_name: '&rasset3287'
+    resource:
+      model_id: 3287
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3287"
+
+  asset3288:
+    display_name: '&rasset3288'
+    resource:
+      model_id: 3288
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3288"
+
+  asset3289:
+    display_name: '&rasset3289'
+    resource:
+      model_id: 3289
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3289"
+
+  asset3290:
+    display_name: '&rasset3290'
+    resource:
+      model_id: 3290
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3290"
+
+  asset3291:
+    display_name: '&rasset3291'
+    resource:
+      model_id: 3291
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3291"
+
+  asset3292:
+    display_name: '&rasset3292'
+    resource:
+      model_id: 3292
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3292"
+
+  asset3293:
+    display_name: '&rasset3293'
+    resource:
+      model_id: 3293
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3293"
+
+  asset3294:
+    display_name: '&rasset3294'
+    resource:
+      model_id: 3294
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3294"
+
+  asset3295:
+    display_name: '&rasset3295'
+    resource:
+      model_id: 3295
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3295"
+
+  asset3296:
+    display_name: '&rasset3296'
+    resource:
+      model_id: 3296
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3296"
+
+  asset3297:
+    display_name: '&rasset3297'
+    resource:
+      model_id: 3297
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3297"
+
+  asset3298:
+    display_name: '&rasset3298'
+    resource:
+      model_id: 3298
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3298"
+
+  asset3299:
+    display_name: '&rasset3299'
+    resource:
+      model_id: 3299
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3299"
+
+  asset3300:
+    display_name: '&rasset3300'
+    resource:
+      model_id: 3300
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3300"
+
+  asset3301:
+    display_name: '&rasset3301'
+    resource:
+      model_id: 3301
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3301"
+
+  asset3302:
+    display_name: '&rasset3302'
+    resource:
+      model_id: 3302
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3302"
+
+  asset3303:
+    display_name: '&rasset3303'
+    resource:
+      model_id: 3303
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3303"
+
+  asset3304:
+    display_name: '&rasset3304'
+    resource:
+      model_id: 3304
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3304"
+
+  asset3305:
+    display_name: '&rasset3305'
+    resource:
+      model_id: 3305
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3305"
+
+  asset3306:
+    display_name: '&rasset3306'
+    resource:
+      model_id: 3306
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3306"
+
+  asset3307:
+    display_name: '&rasset3307'
+    resource:
+      model_id: 3307
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3307"
+
+  asset3308:
+    display_name: '&rasset3308'
+    resource:
+      model_id: 3308
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3308"
+
+  asset3309:
+    display_name: '&rasset3309'
+    resource:
+      model_id: 3309
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3309"
+
+  asset3310:
+    display_name: '&rasset3310'
+    resource:
+      model_id: 3310
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3310"
+
+  asset3311:
+    display_name: '&rasset3311'
+    resource:
+      model_id: 3311
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3311"
+
+  asset3312:
+    display_name: '&rasset3312'
+    resource:
+      model_id: 3312
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3312"
+
+  asset3313:
+    display_name: '&rasset3313'
+    resource:
+      model_id: 3313
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3313"
+
+  asset3314:
+    display_name: '&rasset3314'
+    resource:
+      model_id: 3314
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3314"
+
+  asset3315:
+    display_name: '&rasset3315'
+    resource:
+      model_id: 3315
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3315"
+
+  asset3316:
+    display_name: '&rasset3316'
+    resource:
+      model_id: 3316
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3316"
+
+  asset3317:
+    display_name: '&rasset3317'
+    resource:
+      model_id: 3317
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3317"
+
+  asset3318:
+    display_name: '&rasset3318'
+    resource:
+      model_id: 3318
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3318"
+
+  asset3319:
+    display_name: '&rasset3319'
+    resource:
+      model_id: 3319
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3319"
+
+  asset3320:
+    display_name: '&rasset3320'
+    resource:
+      model_id: 3320
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3320"
+
+  asset3321:
+    display_name: '&rasset3321'
+    resource:
+      model_id: 3321
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3321"
+
+  asset3322:
+    display_name: '&rasset3322'
+    resource:
+      model_id: 3322
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3322"
+
+  asset3323:
+    display_name: '&rasset3323'
+    resource:
+      model_id: 3323
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3323"
+
+  asset3324:
+    display_name: '&rasset3324'
+    resource:
+      model_id: 3324
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3324"
+
+  asset3325:
+    display_name: '&rasset3325'
+    resource:
+      model_id: 3325
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3325"
+
+  asset3326:
+    display_name: '&rasset3326'
+    resource:
+      model_id: 3326
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3326"
+
+  asset3327:
+    display_name: '&rasset3327'
+    resource:
+      model_id: 3327
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3327"
+
+  asset3328:
+    display_name: '&rasset3328'
+    resource:
+      model_id: 3328
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3328"
+
+  asset3329:
+    display_name: '&rasset3329'
+    resource:
+      model_id: 3329
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3329"
+
+  asset3330:
+    display_name: '&rasset3330'
+    resource:
+      model_id: 3330
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3330"
+
+  asset3331:
+    display_name: '&rasset3331'
+    resource:
+      model_id: 3331
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3331"
+
+  asset3332:
+    display_name: '&rasset3332'
+    resource:
+      model_id: 3332
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3332"
+
+  asset3333:
+    display_name: '&rasset3333'
+    resource:
+      model_id: 3333
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3333"
+
+  asset3334:
+    display_name: '&rasset3334'
+    resource:
+      model_id: 3334
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3334"
+
+  asset3335:
+    display_name: '&rasset3335'
+    resource:
+      model_id: 3335
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3335"
+
+  asset3336:
+    display_name: '&rasset3336'
+    resource:
+      model_id: 3336
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3336"
+
+  asset3337:
+    display_name: '&rasset3337'
+    resource:
+      model_id: 3337
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3337"
+
+  asset3338:
+    display_name: '&rasset3338'
+    resource:
+      model_id: 3338
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3338"
+
+  asset3339:
+    display_name: '&rasset3339'
+    resource:
+      model_id: 3339
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3339"
+
+  asset3340:
+    display_name: '&rasset3340'
+    resource:
+      model_id: 3340
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3340"
+
+  asset3341:
+    display_name: '&rasset3341'
+    resource:
+      model_id: 3341
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3341"
+
+  asset3342:
+    display_name: '&rasset3342'
+    resource:
+      model_id: 3342
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3342"
+
+  asset3343:
+    display_name: '&rasset3343'
+    resource:
+      model_id: 3343
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3343"
+
+  asset3344:
+    display_name: '&rasset3344'
+    resource:
+      model_id: 3344
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3344"
+
+  asset3345:
+    display_name: '&rasset3345'
+    resource:
+      model_id: 3345
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3345"
+
+  asset3346:
+    display_name: '&rasset3346'
+    resource:
+      model_id: 3346
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3346"
+
+  asset3347:
+    display_name: '&rasset3347'
+    resource:
+      model_id: 3347
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3347"
+
+  asset3348:
+    display_name: '&rasset3348'
+    resource:
+      model_id: 3348
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3348"
+
+  asset3349:
+    display_name: '&rasset3349'
+    resource:
+      model_id: 3349
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3349"
+
+  asset3350:
+    display_name: '&rasset3350'
+    resource:
+      model_id: 3350
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3350"
+
+  asset3351:
+    display_name: '&rasset3351'
+    resource:
+      model_id: 3351
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3351"
+
+  asset3352:
+    display_name: '&rasset3352'
+    resource:
+      model_id: 3352
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3352"
+
+  asset3353:
+    display_name: '&rasset3353'
+    resource:
+      model_id: 3353
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3353"
+
+  asset3354:
+    display_name: '&rasset3354'
+    resource:
+      model_id: 3354
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3354"
+
+  asset3355:
+    display_name: '&rasset3355'
+    resource:
+      model_id: 3355
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3355"
+
+  asset3356:
+    display_name: '&rasset3356'
+    resource:
+      model_id: 3356
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3356"
+
+  asset3357:
+    display_name: '&rasset3357'
+    resource:
+      model_id: 3357
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3357"
+
+  asset3358:
+    display_name: '&rasset3358'
+    resource:
+      model_id: 3358
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3358"
+
+  asset3359:
+    display_name: '&rasset3359'
+    resource:
+      model_id: 3359
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3359"
+
+  asset3360:
+    display_name: '&rasset3360'
+    resource:
+      model_id: 3360
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3360"
+
+  asset3361:
+    display_name: '&rasset3361'
+    resource:
+      model_id: 3361
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3361"
+
+  asset3362:
+    display_name: '&rasset3362'
+    resource:
+      model_id: 3362
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3362"
+
+  asset3363:
+    display_name: '&rasset3363'
+    resource:
+      model_id: 3363
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3363"
+
+  asset3364:
+    display_name: '&rasset3364'
+    resource:
+      model_id: 3364
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3364"
+
+  asset3365:
+    display_name: '&rasset3365'
+    resource:
+      model_id: 3365
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3365"
+
+  asset3366:
+    display_name: '&rasset3366'
+    resource:
+      model_id: 3366
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3366"
+
+  asset3367:
+    display_name: '&rasset3367'
+    resource:
+      model_id: 3367
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3367"
+
+  asset3368:
+    display_name: '&rasset3368'
+    resource:
+      model_id: 3368
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3368"
+
+  asset3369:
+    display_name: '&rasset3369'
+    resource:
+      model_id: 3369
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3369"
+
+  asset3370:
+    display_name: '&rasset3370'
+    resource:
+      model_id: 3370
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3370"
+
+  asset3371:
+    display_name: '&rasset3371'
+    resource:
+      model_id: 3371
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3371"
+
+  asset3372:
+    display_name: '&rasset3372'
+    resource:
+      model_id: 3372
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3372"
+
+  asset3373:
+    display_name: '&rasset3373'
+    resource:
+      model_id: 3373
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3373"
+
+  asset3374:
+    display_name: '&rasset3374'
+    resource:
+      model_id: 3374
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3374"
+
+  asset3375:
+    display_name: '&rasset3375'
+    resource:
+      model_id: 3375
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3375"
+
+  asset3376:
+    display_name: '&rasset3376'
+    resource:
+      model_id: 3376
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3376"
+
+  asset3377:
+    display_name: '&rasset3377'
+    resource:
+      model_id: 3377
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3377"
+
+  asset3378:
+    display_name: '&rasset3378'
+    resource:
+      model_id: 3378
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3378"
+
+  asset3379:
+    display_name: '&rasset3379'
+    resource:
+      model_id: 3379
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3379"
+
+  asset3380:
+    display_name: '&rasset3380'
+    resource:
+      model_id: 3380
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3380"
+
+  asset3381:
+    display_name: '&rasset3381'
+    resource:
+      model_id: 3381
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3381"
+
+  asset3382:
+    display_name: '&rasset3382'
+    resource:
+      model_id: 3382
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3382"
+
+  asset3383:
+    display_name: '&rasset3383'
+    resource:
+      model_id: 3383
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3383"
+
+  asset3384:
+    display_name: '&rasset3384'
+    resource:
+      model_id: 3384
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3384"
+
+  asset3385:
+    display_name: '&rasset3385'
+    resource:
+      model_id: 3385
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3385"
+
+  asset3386:
+    display_name: '&rasset3386'
+    resource:
+      model_id: 3386
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3386"
+
+  asset3387:
+    display_name: '&rasset3387'
+    resource:
+      model_id: 3387
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3387"
+
+  asset3388:
+    display_name: '&rasset3388'
+    resource:
+      model_id: 3388
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3388"
+
+  asset3389:
+    display_name: '&rasset3389'
+    resource:
+      model_id: 3389
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3389"
+
+  asset3390:
+    display_name: '&rasset3390'
+    resource:
+      model_id: 3390
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3390"
+
+  asset3391:
+    display_name: '&rasset3391'
+    resource:
+      model_id: 3391
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3391"
+
+  asset3392:
+    display_name: '&rasset3392'
+    resource:
+      model_id: 3392
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3392"
+
+  asset3393:
+    display_name: '&rasset3393'
+    resource:
+      model_id: 3393
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3393"
+
+  asset3394:
+    display_name: '&rasset3394'
+    resource:
+      model_id: 3394
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3394"
+
+  asset3395:
+    display_name: '&rasset3395'
+    resource:
+      model_id: 3395
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3395"
+
+  asset3396:
+    display_name: '&rasset3396'
+    resource:
+      model_id: 3396
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3396"
+
+  asset3397:
+    display_name: '&rasset3397'
+    resource:
+      model_id: 3397
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3397"
+
+  asset3398:
+    display_name: '&rasset3398'
+    resource:
+      model_id: 3398
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3398"
+
+  asset3399:
+    display_name: '&rasset3399'
+    resource:
+      model_id: 3399
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3399"
+
+  asset3400:
+    display_name: '&rasset3400'
+    resource:
+      model_id: 3400
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3400"
+
+  asset3401:
+    display_name: '&rasset3401'
+    resource:
+      model_id: 3401
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3401"
+
+  asset3402:
+    display_name: '&rasset3402'
+    resource:
+      model_id: 3402
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3402"
+
+  asset3403:
+    display_name: '&rasset3403'
+    resource:
+      model_id: 3403
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3403"
+
+  asset3404:
+    display_name: '&rasset3404'
+    resource:
+      model_id: 3404
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3404"
+
+  asset3405:
+    display_name: '&rasset3405'
+    resource:
+      model_id: 3405
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3405"
+
+  asset3406:
+    display_name: '&rasset3406'
+    resource:
+      model_id: 3406
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3406"
+
+  asset3407:
+    display_name: '&rasset3407'
+    resource:
+      model_id: 3407
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3407"
+
+  asset3408:
+    display_name: '&rasset3408'
+    resource:
+      model_id: 3408
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3408"
+
+  asset3409:
+    display_name: '&rasset3409'
+    resource:
+      model_id: 3409
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3409"
+
+  asset3410:
+    display_name: '&rasset3410'
+    resource:
+      model_id: 3410
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3410"
+
+  asset3411:
+    display_name: '&rasset3411'
+    resource:
+      model_id: 3411
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3411"
+
+  asset3412:
+    display_name: '&rasset3412'
+    resource:
+      model_id: 3412
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3412"
+
+  asset3413:
+    display_name: '&rasset3413'
+    resource:
+      model_id: 3413
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3413"
+
+  asset3414:
+    display_name: '&rasset3414'
+    resource:
+      model_id: 3414
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3414"
+
+  asset3415:
+    display_name: '&rasset3415'
+    resource:
+      model_id: 3415
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3415"
+
+  asset3416:
+    display_name: '&rasset3416'
+    resource:
+      model_id: 3416
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3416"
+
+  asset3417:
+    display_name: '&rasset3417'
+    resource:
+      model_id: 3417
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3417"
+
+  asset3418:
+    display_name: '&rasset3418'
+    resource:
+      model_id: 3418
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3418"
+
+  asset3419:
+    display_name: '&rasset3419'
+    resource:
+      model_id: 3419
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3419"
+
+  asset3420:
+    display_name: '&rasset3420'
+    resource:
+      model_id: 3420
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3420"
+
+  asset3421:
+    display_name: '&rasset3421'
+    resource:
+      model_id: 3421
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3421"
+
+  asset3422:
+    display_name: '&rasset3422'
+    resource:
+      model_id: 3422
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3422"
+
+  asset3423:
+    display_name: '&rasset3423'
+    resource:
+      model_id: 3423
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3423"
+
+  asset3424:
+    display_name: '&rasset3424'
+    resource:
+      model_id: 3424
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3424"
+
+  asset3425:
+    display_name: '&rasset3425'
+    resource:
+      model_id: 3425
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3425"
+
+  asset3426:
+    display_name: '&rasset3426'
+    resource:
+      model_id: 3426
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3426"
+
+  asset3427:
+    display_name: '&rasset3427'
+    resource:
+      model_id: 3427
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3427"
+
+  asset3428:
+    display_name: '&rasset3428'
+    resource:
+      model_id: 3428
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3428"
+
+  asset3429:
+    display_name: '&rasset3429'
+    resource:
+      model_id: 3429
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3429"
+
+  asset3430:
+    display_name: '&rasset3430'
+    resource:
+      model_id: 3430
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3430"
+
+  asset3431:
+    display_name: '&rasset3431'
+    resource:
+      model_id: 3431
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3431"
+
+  asset3432:
+    display_name: '&rasset3432'
+    resource:
+      model_id: 3432
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3432"
+
+  asset3433:
+    display_name: '&rasset3433'
+    resource:
+      model_id: 3433
+      material: LEATHER_HORSE_ARMOR
+      model_path: "genesicore:collection/asset3433"
+
